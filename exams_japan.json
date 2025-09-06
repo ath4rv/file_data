@@ -1,0 +1,41 @@
+{
+  "EJU": {
+    "totalMarks": 800,
+    "subjects": {
+      "Japanese": 400,
+      "Science/Math/General": 400
+    },
+    "description": "Examination for Japanese University Admission for International Students",
+    "negativeMarking": false
+  },
+  "National Center Test (Common Test)": {
+    "totalMarks": 900,
+    "subjects": {
+      "Japanese": 200,
+      "Geography/History/Civics": 200,
+      "Mathematics": 200,
+      "Science": 300
+    },
+    "description": "Common Test for University Admissions (Japan)",
+    "negativeMarking": false
+  },
+  "JLPT N1": {
+    "totalMarks": 180,
+    "subjects": {
+      "Language Knowledge": 60,
+      "Reading": 60,
+      "Listening": 60
+    },
+    "description": "Japanese Language Proficiency Test N1",
+    "negativeMarking": false
+  },
+  "National Medical Exam (Japan)": {
+    "totalMarks": 500,
+    "subjects": {
+      "General Medicine": 250,
+      "Clinical Medicine": 250
+    },
+    "description": "Japanese National Medical Practitioner Qualifying Examination",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ORT": {
+    "totalMarks": 240,
+    "subjects": {
+      "Math": 60,
+      "Language": 60,
+      "Science": 60,
+      "Elective": 60
+    },
+    "description": "Kyrgyzstan National Scholarship Test",
+    "negativeMarking": false
+  }
+}

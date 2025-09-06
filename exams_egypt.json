@@ -1,0 +1,15 @@
+{
+  "Thanaweya Amma": {
+    "totalMarks": 410,
+    "subjects": {
+      "Arabic": 80,
+      "Foreign Language": 50,
+      "Third Language": 40,
+      "Math": 60,
+      "Sciences": 100,
+      "Philosophy/History": 80
+    },
+    "description": "Egyptian General Secondary Education Certificate",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "MCAT Canada": {
+    "totalMarks": 528,
+    "subjects": {
+      "Biological & Biochemical": 132,
+      "Chemical & Physical": 132,
+      "Psychological & Social": 132,
+      "CARS": 132
+    },
+    "description": "Medical College Admission Test (Canada)",
+    "negativeMarking": false
+  },
+  "CASPer": {
+    "totalMarks": 100,
+    "subjects": {
+      "Situational Judgment": 100
+    },
+    "description": "Computer-Based Assessment for Sampling Personal Characteristics",
+    "negativeMarking": false
+  },
+  "NCLEX RN (Canada)": {
+    "totalMarks": 75,
+    "subjects": {
+      "Nursing Competency": 75
+    },
+    "description": "National Council Licensure Examination for Registered Nurses (Canada)",
+    "negativeMarking": false
+  },
+  "CPA Canada CFE": {
+    "totalMarks": 100,
+    "subjects": {
+      "Day 1": 33,
+      "Day 2": 33,
+      "Day 3": 34
+    },
+    "description": "Common Final Examination for Chartered Professional Accountant (Canada)",
+    "negativeMarking": false
+  },
+  "LSAT": {
+    "totalMarks": 180,
+    "subjects": {
+      "Logical Reasoning": 60,
+      "Analytical Reasoning": 60,
+      "Reading Comprehension": 60
+    },
+    "description": "Law School Admission Test (Canada)",
+    "negativeMarking": false
+  }
+}

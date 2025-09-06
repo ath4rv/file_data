@@ -1,0 +1,10 @@
+{
+  "WASSCE (Ghana)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Grade": 100
+    },
+    "description": "West African Senior School Certificate Examination (Ghana)",
+    "negativeMarking": false
+  }
+}

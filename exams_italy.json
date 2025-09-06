@@ -1,0 +1,23 @@
+{
+  "Esame di Stato (Maturità)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Written Tests": 60,
+      "Oral Exam": 40
+    },
+    "description": "Italian State Exam (High School Leaving Certificate)",
+    "negativeMarking": false
+  },
+  "IMAT": {
+    "totalMarks": 90,
+    "subjects": {
+      "Critical Thinking": 20,
+      "Problem Solving": 20,
+      "Biology": 20,
+      "Chemistry": 20,
+      "Math & Physics": 10
+    },
+    "description": "International Medical Admissions Test (Italy)",
+    "negativeMarking": false
+  }
+}

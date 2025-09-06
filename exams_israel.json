@@ -1,0 +1,12 @@
+{
+  "Psychometric Entrance Test": {
+    "totalMarks": 800,
+    "subjects": {
+      "Verbal Reasoning": 266,
+      "Quantitative Reasoning": 266,
+      "English": 268
+    },
+    "description": "Israeli University Psychometric Entrance Test",
+    "negativeMarking": false
+  }
+}

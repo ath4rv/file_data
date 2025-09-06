@@ -1,0 +1,13 @@
+{
+  "MATSEC": {
+    "totalMarks": 100,
+    "subjects": {
+      "English": 20,
+      "Maltese": 20,
+      "Mathematics": 20,
+      "Optional": 40
+    },
+    "description": "Matriculation and Secondary Education Certificate",
+    "negativeMarking": false
+  }
+}

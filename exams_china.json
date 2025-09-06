@@ -1,0 +1,48 @@
+{
+  "Gaokao": {
+    "totalMarks": 750,
+    "subjects": {
+      "Chinese": 150,
+      "Mathematics": 150,
+      "Foreign Language": 150,
+      "Comprehensive": 300
+    },
+    "description": "National College Entrance Examination (China)",
+    "negativeMarking": false
+  },
+  "Zhongkao": {
+    "totalMarks": 630,
+    "subjects": {
+      "Chinese": 120,
+      "Mathematics": 120,
+      "English": 120,
+      "Physics": 90,
+      "Chemistry": 60,
+      "Politics": 60,
+      "History": 60
+    },
+    "description": "High School Entrance Examination (China)",
+    "negativeMarking": false
+  },
+  "NCEE Postgraduate": {
+    "totalMarks": 500,
+    "subjects": {
+      "Politics": 100,
+      "English": 100,
+      "Subject 1": 150,
+      "Subject 2": 150
+    },
+    "description": "National Postgraduate Entrance Examination (China)",
+    "negativeMarking": false
+  },
+  "CET-6": {
+    "totalMarks": 710,
+    "subjects": {
+      "Listening": 249,
+      "Reading": 364,
+      "Writing & Translation": 97
+    },
+    "description": "College English Test Band 6",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Saber 11": {
+    "totalMarks": 500,
+    "subjects": {
+      "Reading": 100,
+      "Math": 100,
+      "Social & Citizenship": 100,
+      "Natural Sciences": 100,
+      "English": 100
+    },
+    "description": "Examen de Estado de la Educación Media (Colombia)",
+    "negativeMarking": false
+  }
+}

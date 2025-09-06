@@ -1,0 +1,13 @@
+{
+  "French Baccalaur\u00e9at Monaco": {
+    "totalMarks": 100,
+    "subjects": {
+      "French": 25,
+      "Math": 25,
+      "Science": 25,
+      "Humanities": 25
+    },
+    "description": "Monaco follows the French Baccalaur\u00e9at system",
+    "negativeMarking": false
+  }
+}

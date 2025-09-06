@@ -1,0 +1,12 @@
+{
+  "PDT (Chile)": {
+    "totalMarks": 850,
+    "subjects": {
+      "Reading": 250,
+      "Math": 250,
+      "History/Science": 350
+    },
+    "description": "Prueba de Transición Universitaria",
+    "negativeMarking": false
+  }
+}

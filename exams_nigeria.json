@@ -1,0 +1,21 @@
+{
+  "WAEC (WASSCE)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Grade": 100
+    },
+    "description": "West African Senior School Certificate Examination (Nigeria)",
+    "negativeMarking": false
+  },
+  "JAMB UTME": {
+    "totalMarks": 400,
+    "subjects": {
+      "Use of English": 100,
+      "Subject 2": 100,
+      "Subject 3": 100,
+      "Subject 4": 100
+    },
+    "description": "Joint Admissions and Matriculation Board Unified Tertiary Matriculation Examination",
+    "negativeMarking": false
+  }
+}

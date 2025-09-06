@@ -1,0 +1,11 @@
+{
+  "State Matura (Croatia)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Compulsory Subjects": 60,
+      "Electives": 40
+    },
+    "description": "Croatian Državna matura",
+    "negativeMarking": false
+  }
+}

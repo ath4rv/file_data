@@ -1,0 +1,13 @@
+{
+  "Centralized Testing": {
+    "totalMarks": 100,
+    "subjects": {
+      "Belarusian": 25,
+      "Mathematics": 25,
+      "History": 25,
+      "Elective": 25
+    },
+    "description": "Belarus National University Entrance Exam",
+    "negativeMarking": false
+  }
+}

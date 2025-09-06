@@ -1,0 +1,22 @@
+{
+  "ENEM": {
+    "totalMarks": 1000,
+    "subjects": {
+      "Language & Codes": 250,
+      "Human Sciences": 250,
+      "Natural Sciences": 250,
+      "Mathematics": 250
+    },
+    "description": "Exame Nacional do Ensino Médio (Brazil)",
+    "negativeMarking": false
+  },
+  "OAB": {
+    "totalMarks": 100,
+    "subjects": {
+      "Objective Exam": 80,
+      "Practical Exam": 20
+    },
+    "description": "Ordem dos Advogados do Brasil (Brazilian Bar Exam)",
+    "negativeMarking": false
+  }
+}

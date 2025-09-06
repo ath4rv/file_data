@@ -1,0 +1,25 @@
+{
+  "ECAT (Pakistan)": {
+    "totalMarks": 400,
+    "subjects": {
+      "Physics": 100,
+      "Mathematics": 100,
+      "Chemistry/Computer": 100,
+      "English": 100
+    },
+    "description": "Engineering College Admission Test (Pakistan)",
+    "negativeMarking": true
+  },
+  "MDCAT (Pakistan)": {
+    "totalMarks": 200,
+    "subjects": {
+      "Biology": 68,
+      "Chemistry": 54,
+      "Physics": 54,
+      "English": 18,
+      "Logical Reasoning": 6
+    },
+    "description": "Medical & Dental College Admission Test (Pakistan)",
+    "negativeMarking": false
+  }
+}

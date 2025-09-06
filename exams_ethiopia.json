@@ -1,0 +1,16 @@
+{
+  "EHEECE": {
+    "totalMarks": 700,
+    "subjects": {
+      "English": 100,
+      "Mathematics": 100,
+      "Biology": 100,
+      "Chemistry": 100,
+      "Physics": 100,
+      "History": 100,
+      "Geography": 100
+    },
+    "description": "Ethiopian Higher Education Entrance Certificate Examination",
+    "negativeMarking": false
+  }
+}

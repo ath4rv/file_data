@@ -1,0 +1,19 @@
+{
+  "UTBK-SNBT": {
+    "totalMarks": 1000,
+    "subjects": {
+      "TPS": 500,
+      "Academic Potential": 500
+    },
+    "description": "Computer-Based Written Examination for National Selection to State Universities (Indonesia)",
+    "negativeMarking": false
+  },
+  "UN (Legacy)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Grade": 100
+    },
+    "description": "Ujian Nasional (Legacy national exam)",
+    "negativeMarking": false
+  }
+}

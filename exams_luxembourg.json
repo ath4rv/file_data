@@ -1,0 +1,12 @@
+{
+  "Examen de Fin d\u2019\u00c9tudes": {
+    "totalMarks": 60,
+    "subjects": {
+      "Languages": 20,
+      "Mathematics": 20,
+      "Sciences": 20
+    },
+    "description": "Luxembourg Secondary School Leaving Exam",
+    "negativeMarking": false
+  }
+}

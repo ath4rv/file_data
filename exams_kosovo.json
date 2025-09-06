@@ -1,0 +1,13 @@
+{
+  "Matura Kosovo": {
+    "totalMarks": 100,
+    "subjects": {
+      "Albanian": 25,
+      "Math": 25,
+      "Science": 25,
+      "Elective": 25
+    },
+    "description": "Kosovo State Matura Exam",
+    "negativeMarking": false
+  }
+}

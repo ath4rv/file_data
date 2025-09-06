@@ -1,0 +1,13 @@
+{
+  "HSC Mauritius": {
+    "totalMarks": 100,
+    "subjects": {
+      "English": 25,
+      "Math": 25,
+      "Science": 25,
+      "Elective": 25
+    },
+    "description": "Mauritius Higher School Certificate",
+    "negativeMarking": false
+  }
+}

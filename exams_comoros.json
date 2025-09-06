@@ -1,0 +1,13 @@
+{
+  "Baccalaur\u00e9at Comorien": {
+    "totalMarks": 100,
+    "subjects": {
+      "French": 25,
+      "Math": 25,
+      "Science": 25,
+      "Elective": 25
+    },
+    "description": "Comorian Baccalaureate Exam",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "State Matura": {
+    "totalMarks": 100,
+    "subjects": {
+      "Lithuanian": 25,
+      "Mathematics": 25,
+      "Foreign Language": 25,
+      "Elective": 25
+    },
+    "description": "Lithuanian National School Leaving Exam",
+    "negativeMarking": false
+  }
+}

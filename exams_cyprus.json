@@ -1,0 +1,10 @@
+{
+  "Pancyprian Exams": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Exams": 100
+    },
+    "description": "Pancyprian Examinations (Cyprus)",
+    "negativeMarking": false
+  }
+}

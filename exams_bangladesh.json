@@ -1,0 +1,20 @@
+{
+  "HSC (Bangladesh)": {
+    "totalMarks": 1200,
+    "subjects": {
+      "Science/Commerce/Arts": 1200
+    },
+    "description": "Higher Secondary Certificate (Bangladesh)",
+    "negativeMarking": false
+  },
+  "BUET Admission": {
+    "totalMarks": 400,
+    "subjects": {
+      "Mathematics": 200,
+      "Physics": 100,
+      "Chemistry": 100
+    },
+    "description": "Bangladesh University of Engineering and Technology Admission Exam",
+    "negativeMarking": false
+  }
+}

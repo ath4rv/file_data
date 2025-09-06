@@ -1,0 +1,13 @@
+{
+  "Baccalaur\u00e9at Libanais": {
+    "totalMarks": 100,
+    "subjects": {
+      "Languages": 25,
+      "Math": 25,
+      "Sciences": 25,
+      "Humanities": 25
+    },
+    "description": "Lebanese Baccalaureate",
+    "negativeMarking": false
+  }
+}

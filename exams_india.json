@@ -1,0 +1,1006 @@
+{
+  "JEE Main": {
+    "totalMarks": 300,
+    "subjects": {
+      "Physics": 100,
+      "Chemistry": 100,
+      "Mathematics": 100
+    },
+    "description": "Joint Entrance Examination Main",
+    "negativeMarking": true
+  },
+  "JEE Advanced": {
+    "totalMarks": 360,
+    "subjects": {
+      "Physics": 120,
+      "Chemistry": 120,
+      "Mathematics": 120
+    },
+    "description": "Joint Entrance Examination Advanced",
+    "negativeMarking": true
+  },
+  "NEET UG": {
+    "totalMarks": 720,
+    "subjects": {
+      "Physics": 180,
+      "Chemistry": 180,
+      "Biology": 360
+    },
+    "description": "National Eligibility cum Entrance Test Undergraduate",
+    "negativeMarking": true
+  },
+  "CUET UG": {
+    "totalMarks": 800,
+    "subjects": {
+      "Language": 200,
+      "Domain-Specific": 400,
+      "General Test": 200
+    },
+    "description": "Common University Entrance Test Undergraduate",
+    "negativeMarking": true
+  },
+  "NATA": {
+    "totalMarks": 200,
+    "subjects": {
+      "Cognitive Abilities": 125,
+      "Visual Perception": 75
+    },
+    "description": "National Aptitude Test in Architecture",
+    "negativeMarking": false
+  },
+  "UCEED": {
+    "totalMarks": 300,
+    "subjects": {
+      "Part A": 240,
+      "Part B": 60
+    },
+    "description": "Undergraduate Common Entrance Examination for Design",
+    "negativeMarking": true
+  },
+  "NID BDes": {
+    "totalMarks": 200,
+    "subjects": {
+      "DAT Prelims": 100,
+      "DAT Mains": 100
+    },
+    "description": "National Institute of Design - Bachelor of Design Entrance",
+    "negativeMarking": false
+  },
+  "NIFT UG": {
+    "totalMarks": 300,
+    "subjects": {
+      "GAT": 150,
+      "CAT": 150
+    },
+    "description": "National Institute of Fashion Technology Entrance (UG)",
+    "negativeMarking": true
+  },
+  "NCHM JEE": {
+    "totalMarks": 800,
+    "subjects": {
+      "Numerical Ability & Analytical Aptitude": 200,
+      "Reasoning & Logical Deduction": 200,
+      "General Knowledge": 200,
+      "English": 200
+    },
+    "description": "National Council for Hotel Management Joint Entrance Examination",
+    "negativeMarking": true
+  },
+  "ICAR AIEEA UG": {
+    "totalMarks": 600,
+    "subjects": {
+      "Physics": 200,
+      "Chemistry": 200,
+      "Biology/Mathematics/Agriculture": 200
+    },
+    "description": "Indian Council of Agricultural Research All India Entrance Examination for Admission Undergraduate",
+    "negativeMarking": true
+  },
+  "CLAT UG": {
+    "totalMarks": 120,
+    "subjects": {
+      "English": 22,
+      "GK & Current Affairs": 28,
+      "Legal Reasoning": 30,
+      "Logical Reasoning": 22,
+      "Quantitative Techniques": 18
+    },
+    "description": "Common Law Admission Test Undergraduate",
+    "negativeMarking": true
+  },
+  "AILET UG": {
+    "totalMarks": 150,
+    "subjects": {
+      "English": 50,
+      "General Knowledge": 30,
+      "Logical Reasoning": 70
+    },
+    "description": "All India Law Entrance Test Undergraduate",
+    "negativeMarking": true
+  },
+  "SLAT": {
+    "totalMarks": 60,
+    "subjects": {
+      "Logical Reasoning": 12,
+      "Legal Reasoning": 12,
+      "Analytical Reasoning": 12,
+      "Reading Comprehension": 12,
+      "General Knowledge": 12
+    },
+    "description": "Symbiosis Law Admission Test",
+    "negativeMarking": false
+  },
+  "LSAT—India": {
+    "totalMarks": 420,
+    "subjects": {
+      "Analytical Reasoning": 140,
+      "Logical Reasoning": 140,
+      "Reading Comprehension": 140
+    },
+    "description": "Law School Admission Test — India",
+    "negativeMarking": false
+  },
+  "BITSAT": {
+    "totalMarks": 390,
+    "subjects": {
+      "Physics": 130,
+      "Chemistry": 130,
+      "Mathematics": 130
+    },
+    "description": "Birla Institute of Technology and Science Admission Test",
+    "negativeMarking": true
+  },
+  "VITEEE": {
+    "totalMarks": 360,
+    "subjects": {
+      "Mathematics/Biology": 120,
+      "Physics": 120,
+      "Chemistry": 120
+    },
+    "description": "Vellore Institute of Technology Engineering Entrance Examination",
+    "negativeMarking": false
+  },
+  "SRMJEEE": {
+    "totalMarks": 125,
+    "subjects": {
+      "Mathematics/Biology": 40,
+      "Physics": 35,
+      "Chemistry": 40,
+      "English": 10
+    },
+    "description": "SRM Joint Engineering Entrance Examination",
+    "negativeMarking": false
+  },
+  "KIITEE": {
+    "totalMarks": 480,
+    "subjects": {
+      "Physics": 160,
+      "Chemistry": 160,
+      "Mathematics": 160
+    },
+    "description": "Kalinga Institute of Industrial Technology Entrance Examination",
+    "negativeMarking": false
+  },
+  "AMUEEE": {
+    "totalMarks": 150,
+    "subjects": {
+      "Physics": 50,
+      "Chemistry": 50,
+      "Mathematics": 50
+    },
+    "description": "Aligarh Muslim University Engineering Entrance Exam",
+    "negativeMarking": true
+  },
+  "IPU CET": {
+    "totalMarks": 600,
+    "subjects": {
+      "Mathematics": 200,
+      "Physics": 200,
+      "Chemistry": 200
+    },
+    "description": "Guru Gobind Singh Indraprastha University Common Entrance Test",
+    "negativeMarking": true
+  },
+  "COMEDK UGET": {
+    "totalMarks": 180,
+    "subjects": {
+      "Physics": 60,
+      "Chemistry": 60,
+      "Mathematics": 60
+    },
+    "description": "Consortium of Medical, Engineering and Dental Colleges of Karnataka Undergraduate Entrance Test",
+    "negativeMarking": false
+  },
+  "MHT CET": {
+    "totalMarks": 200,
+    "subjects": {
+      "Physics": 50,
+      "Chemistry": 50,
+      "Mathematics": 100
+    },
+    "description": "Maharashtra Health and Technical Common Entrance Test",
+    "negativeMarking": false
+  },
+  "KCET": {
+    "totalMarks": 180,
+    "subjects": {
+      "Physics": 60,
+      "Chemistry": 60,
+      "Mathematics": 60
+    },
+    "description": "Karnataka Common Entrance Test",
+    "negativeMarking": false
+  },
+  "WBJEE": {
+    "totalMarks": 200,
+    "subjects": {
+      "Mathematics": 100,
+      "Physics": 50,
+      "Chemistry": 50
+    },
+    "description": "West Bengal Joint Entrance Examination",
+    "negativeMarking": true
+  },
+  "AP EAPCET": {
+    "totalMarks": 160,
+    "subjects": {
+      "Physics": 40,
+      "Chemistry": 40,
+      "Mathematics": 80
+    },
+    "description": "Andhra Pradesh Engineering, Agriculture and Pharmacy Common Entrance Test",
+    "negativeMarking": false
+  },
+  "TS EAPCET": {
+    "totalMarks": 160,
+    "subjects": {
+      "Physics": 40,
+      "Chemistry": 40,
+      "Mathematics": 80
+    },
+    "description": "Telangana State Engineering, Agriculture and Pharmacy Common Entrance Test",
+    "negativeMarking": false
+  },
+  "KEAM": {
+    "totalMarks": 480,
+    "subjects": {
+      "Physics": 120,
+      "Chemistry": 120,
+      "Mathematics": 240
+    },
+    "description": "Kerala Engineering Architecture Medical",
+    "negativeMarking": true
+  },
+  "GUJCET": {
+    "totalMarks": 120,
+    "subjects": {
+      "Physics": 40,
+      "Chemistry": 40,
+      "Mathematics": 40
+    },
+    "description": "Gujarat Common Entrance Test",
+    "negativeMarking": false
+  },
+  "BCECE": {
+    "totalMarks": 1200,
+    "subjects": {
+      "Physics": 400,
+      "Chemistry": 400,
+      "Mathematics": 400
+    },
+    "description": "Bihar Combined Entrance Competitive Examination",
+    "negativeMarking": true
+  },
+  "TJEE": {
+    "totalMarks": 400,
+    "subjects": {
+      "Physics": 100,
+      "Chemistry": 100,
+      "Mathematics": 100,
+      "Biology": 100
+    },
+    "description": "Tripura Joint Entrance Examination",
+    "negativeMarking": false
+  },
+  "JKCET": {
+    "totalMarks": 180,
+    "subjects": {
+      "Physics": 60,
+      "Chemistry": 60,
+      "Mathematics": 60
+    },
+    "description": "Jammu and Kashmir Common Entrance Test",
+    "negativeMarking": false
+  },
+  "MHCET Law (5-year)": {
+    "totalMarks": 150,
+    "subjects": {
+      "Legal Aptitude": 40,
+      "GK & Current Affairs": 30,
+      "Logical Reasoning": 40,
+      "English": 30,
+      "Maths": 10
+    },
+    "description": "Maharashtra Common Entrance Test Law (5-year Integrated LLB)",
+    "negativeMarking": false
+  },
+  "AIIMS BSc Nursing": {
+    "totalMarks": 100,
+    "subjects": {
+      "Physics": 30,
+      "Chemistry": 30,
+      "Biology": 30,
+      "General Knowledge": 10
+    },
+    "description": "All India Institute of Medical Sciences BSc Nursing Entrance",
+    "negativeMarking": false
+  },
+  "GATE": {
+    "totalMarks": 100,
+    "subjects": {
+      "General Aptitude": 15,
+      "Engineering Mathematics": 15,
+      "Subject-Specific": 70
+    },
+    "description": "Graduate Aptitude Test in Engineering",
+    "negativeMarking": true
+  },
+  "IIT JAM": {
+    "totalMarks": 100,
+    "subjects": {
+      "Section A (MCQ)": 50,
+      "Section B (MSQ)": 20,
+      "Section C (NAT)": 30
+    },
+    "description": "Joint Admission Test for MSc",
+    "negativeMarking": true
+  },
+  "CAT": {
+    "totalMarks": 198,
+    "subjects": {
+      "VARC": 66,
+      "DILR": 60,
+      "QA": 72
+    },
+    "description": "Common Admission Test",
+    "negativeMarking": true
+  },
+  "XAT": {
+    "totalMarks": 100,
+    "subjects": {
+      "Verbal & Logical Ability": 26,
+      "Decision Making": 21,
+      "QA & DI": 28,
+      "General Knowledge": 25
+    },
+    "description": "Xavier Aptitude Test",
+    "negativeMarking": true
+  },
+  "NMAT": {
+    "totalMarks": 360,
+    "subjects": {
+      "Language Skills": 120,
+      "Quantitative Skills": 120,
+      "Logical Reasoning": 120
+    },
+    "description": "NMAT by GMAC",
+    "negativeMarking": false
+  },
+  "CMAT": {
+    "totalMarks": 400,
+    "subjects": {
+      "Quantitative Techniques": 100,
+      "Logical Reasoning": 100,
+      "Language Comprehension": 100,
+      "General Awareness": 100
+    },
+    "description": "Common Management Admission Test",
+    "negativeMarking": true
+  },
+  "SNAP": {
+    "totalMarks": 60,
+    "subjects": {
+      "General English": 20,
+      "Quantitative, DI & DS": 20,
+      "Analytical & Logical Reasoning": 20
+    },
+    "description": "Symbiosis National Aptitude Test",
+    "negativeMarking": true
+  },
+  "TANCET MBA": {
+    "totalMarks": 100,
+    "subjects": {
+      "English": 20,
+      "Quantitative Ability": 20,
+      "Data Sufficiency": 20,
+      "Reasoning": 20,
+      "Business Analysis": 20
+    },
+    "description": "Tamil Nadu Common Entrance Test MBA",
+    "negativeMarking": true
+  },
+  "MAH MBA CET": {
+    "totalMarks": 200,
+    "subjects": {
+      "Logical Reasoning": 75,
+      "Abstract Reasoning": 25,
+      "Quantitative Aptitude": 50,
+      "Verbal Ability & RC": 50
+    },
+    "description": "Maharashtra MBA/MMS Common Entrance Test",
+    "negativeMarking": false
+  },
+  "PGCET Karnataka (MBA)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Proficiency in English": 25,
+      "Reasoning & GK": 25,
+      "Quantitative Analysis": 25,
+      "General Intelligence": 25
+    },
+    "description": "Karnataka Post Graduate Common Entrance Test MBA",
+    "negativeMarking": false
+  },
+  "CLAT PG": {
+    "totalMarks": 120,
+    "subjects": {
+      "Constitutional Law": 60,
+      "Other Law Subjects": 60
+    },
+    "description": "Common Law Admission Test Postgraduate",
+    "negativeMarking": true
+  },
+  "AILET PG": {
+    "totalMarks": 150,
+    "subjects": {
+      "English": 50,
+      "General Knowledge": 30,
+      "Legal Reasoning": 70
+    },
+    "description": "All India Law Entrance Test LLM",
+    "negativeMarking": true
+  },
+  "NEET PG": {
+    "totalMarks": 800,
+    "subjects": {
+      "Medical Sciences": 800
+    },
+    "description": "National Eligibility cum Entrance Test Postgraduate",
+    "negativeMarking": true
+  },
+  "INI-CET": {
+    "totalMarks": 200,
+    "subjects": {
+      "Pre-Clinical & Para-Clinical": 100,
+      "Clinical": 100
+    },
+    "description": "Institute of National Importance Combined Entrance Test",
+    "negativeMarking": true
+  },
+  "AIAPGET": {
+    "totalMarks": 480,
+    "subjects": {
+      "Ayurveda/Unani/Homeopathy/Siddha": 480
+    },
+    "description": "All India Ayush Post Graduate Entrance Test",
+    "negativeMarking": true
+  },
+  "GPAT": {
+    "totalMarks": 500,
+    "subjects": {
+      "Pharmaceutical Sciences": 500
+    },
+    "description": "Graduate Pharmacy Aptitude Test",
+    "negativeMarking": true
+  },
+  "UPSC CSE": {
+    "totalMarks": 2025,
+    "subjects": {
+      "Prelims GS I": 200,
+      "Prelims GS II (CSAT)": 200,
+      "Mains Written": 1750,
+      "Interview": 275
+    },
+    "description": "Union Public Service Commission Civil Services Examination",
+    "negativeMarking": true
+  },
+  "UPSC ESE": {
+    "totalMarks": 1300,
+    "subjects": {
+      "Prelims": 500,
+      "Mains": 600,
+      "Personality Test": 200
+    },
+    "description": "Union Public Service Commission Engineering Services Examination",
+    "negativeMarking": true
+  },
+  "UPSC CAPF AC": {
+    "totalMarks": 450,
+    "subjects": {
+      "Paper I": 250,
+      "Paper II": 200
+    },
+    "description": "Central Armed Police Forces Assistant Commandants",
+    "negativeMarking": true
+  },
+  "NDA": {
+    "totalMarks": 900,
+    "subjects": {
+      "Mathematics": 300,
+      "General Ability": 600
+    },
+    "description": "National Defence Academy Examination",
+    "negativeMarking": true
+  },
+  "CDS": {
+    "totalMarks": 300,
+    "subjects": {
+      "English": 100,
+      "General Knowledge": 100,
+      "Elementary Mathematics": 100
+    },
+    "description": "Combined Defence Services",
+    "negativeMarking": true
+  },
+  "AFCAT": {
+    "totalMarks": 300,
+    "subjects": {
+      "General Awareness": 75,
+      "Verbal Ability": 75,
+      "Numerical Ability": 75,
+      "Reasoning & Military Aptitude": 75
+    },
+    "description": "Air Force Common Admission Test",
+    "negativeMarking": true
+  },
+  "SSC CGL": {
+    "totalMarks": 700,
+    "subjects": {
+      "Tier I": 200,
+      "Tier II Paper I": 200,
+      "Tier II Paper II": 200,
+      "Tier II Paper III": 100
+    },
+    "description": "Staff Selection Commission Combined Graduate Level",
+    "negativeMarking": true
+  },
+  "SSC CHSL": {
+    "totalMarks": 200,
+    "subjects": {
+      "English Language": 50,
+      "Quantitative Aptitude": 50,
+      "General Intelligence": 50,
+      "General Awareness": 50
+    },
+    "description": "Staff Selection Commission Combined Higher Secondary Level",
+    "negativeMarking": true
+  },
+  "SSC CPO": {
+    "totalMarks": 400,
+    "subjects": {
+      "Paper I": 200,
+      "Paper II": 200
+    },
+    "description": "SSC Central Police Organization (SI in Delhi Police and CAPFs)",
+    "negativeMarking": true
+  },
+  "SSC MTS": {
+    "totalMarks": 270,
+    "subjects": {
+      "Session I": 120,
+      "Session II": 150
+    },
+    "description": "SSC Multi-Tasking Staff",
+    "negativeMarking": true
+  },
+  "SSC JE": {
+    "totalMarks": 400,
+    "subjects": {
+      "Paper I": 200,
+      "Paper II": 200
+    },
+    "description": "SSC Junior Engineer",
+    "negativeMarking": true
+  },
+  "IBPS PO": {
+    "totalMarks": 225,
+    "subjects": {
+      "Prelims": 100,
+      "Mains": 125
+    },
+    "description": "Institute of Banking Personnel Selection Probationary Officer",
+    "negativeMarking": true
+  },
+  "IBPS Clerk": {
+    "totalMarks": 200,
+    "subjects": {
+      "Prelims": 100,
+      "Mains": 100
+    },
+    "description": "Institute of Banking Personnel Selection Clerk",
+    "negativeMarking": true
+  },
+  "IBPS RRB PO": {
+    "totalMarks": 200,
+    "subjects": {
+      "Prelims": 80,
+      "Mains": 120
+    },
+    "description": "IBPS Regional Rural Banks Officer Scale I",
+    "negativeMarking": true
+  },
+  "IBPS RRB Clerk": {
+    "totalMarks": 200,
+    "subjects": {
+      "Prelims": 80,
+      "Mains": 120
+    },
+    "description": "IBPS Regional Rural Banks Office Assistant",
+    "negativeMarking": true
+  },
+  "SBI PO": {
+    "totalMarks": 250,
+    "subjects": {
+      "Prelims": 100,
+      "Mains": 150
+    },
+    "description": "State Bank of India Probationary Officer",
+    "negativeMarking": true
+  },
+  "SBI Clerk": {
+    "totalMarks": 200,
+    "subjects": {
+      "Prelims": 100,
+      "Mains": 100
+    },
+    "description": "State Bank of India Junior Associate (Clerk)",
+    "negativeMarking": true
+  },
+  "RBI Grade B": {
+    "totalMarks": 650,
+    "subjects": {
+      "Phase I": 200,
+      "Phase II": 300,
+      "Interview": 150
+    },
+    "description": "Reserve Bank of India Grade B Officer",
+    "negativeMarking": true
+  },
+  "SEBI Grade A": {
+    "totalMarks": 350,
+    "subjects": {
+      "Phase I": 200,
+      "Phase II": 100,
+      "Interview": 50
+    },
+    "description": "Securities and Exchange Board of India Officer Grade A",
+    "negativeMarking": true
+  },
+  "NABARD Grade A": {
+    "totalMarks": 350,
+    "subjects": {
+      "Prelims": 200,
+      "Mains": 100,
+      "Interview": 50
+    },
+    "description": "National Bank for Agriculture and Rural Development Grade A",
+    "negativeMarking": true
+  },
+  "RRB NTPC": {
+    "totalMarks": 200,
+    "subjects": {
+      "CBT 1": 100,
+      "CBT 2": 100
+    },
+    "description": "Railway Recruitment Board Non-Technical Popular Categories",
+    "negativeMarking": true
+  },
+  "RRB Group D": {
+    "totalMarks": 100,
+    "subjects": {
+      "CBT": 100
+    },
+    "description": "Railway Recruitment Board Group D",
+    "negativeMarking": true
+  },
+  "RRB JE": {
+    "totalMarks": 250,
+    "subjects": {
+      "CBT 1": 100,
+      "CBT 2": 150
+    },
+    "description": "Railway Recruitment Board Junior Engineer",
+    "negativeMarking": true
+  },
+  "RRB ALP": {
+    "totalMarks": 250,
+    "subjects": {
+      "CBT 1": 100,
+      "CBT 2": 150
+    },
+    "description": "Railway Recruitment Board Assistant Loco Pilot",
+    "negativeMarking": true
+  },
+  "CTET": {
+    "totalMarks": 300,
+    "subjects": {
+      "Paper I": 150,
+      "Paper II": 150
+    },
+    "description": "Central Teacher Eligibility Test",
+    "negativeMarking": false
+  },
+  "KVS PRT/TGT/PGT": {
+    "totalMarks": 180,
+    "subjects": {
+      "General Awareness": 40,
+      "Reasoning": 40,
+      "English/Hindi": 40,
+      "Subject": 60
+    },
+    "description": "Kendriya Vidyalaya Sangathan Recruitment (various posts)",
+    "negativeMarking": false
+  },
+  "NVS PGT/TGT": {
+    "totalMarks": 200,
+    "subjects": {
+      "General Sections": 100,
+      "Subject Knowledge": 100
+    },
+    "description": "Navodaya Vidyalaya Samiti Teacher Recruitment",
+    "negativeMarking": false
+  },
+  "Delhi Police Constable": {
+    "totalMarks": 100,
+    "subjects": {
+      "Reasoning": 25,
+      "General Knowledge": 50,
+      "Numerical Ability": 15,
+      "Computer": 10
+    },
+    "description": "Delhi Police Constable (SSC)",
+    "negativeMarking": true
+  },
+  "MPSC State Services": {
+    "totalMarks": 1025,
+    "subjects": {
+      "Prelims": 400,
+      "Mains": 675,
+      "Interview": 50
+    },
+    "description": "Maharashtra Public Service Commission State Services",
+    "negativeMarking": true
+  },
+  "UPPCS": {
+    "totalMarks": 1500,
+    "subjects": {
+      "Prelims": 400,
+      "Mains": 1100
+    },
+    "description": "Uttar Pradesh Combined State/Upper Subordinate Services",
+    "negativeMarking": true
+  },
+  "BPSC": {
+    "totalMarks": 1200,
+    "subjects": {
+      "Prelims": 150,
+      "Mains": 900,
+      "Interview": 150
+    },
+    "description": "Bihar Public Service Commission Combined Competitive Examination",
+    "negativeMarking": true
+  },
+  "WBCS": {
+    "totalMarks": 1600,
+    "subjects": {
+      "Prelims": 200,
+      "Mains": 1400
+    },
+    "description": "West Bengal Civil Service",
+    "negativeMarking": true
+  },
+  "RPSC RAS": {
+    "totalMarks": 1200,
+    "subjects": {
+      "Prelims": 200,
+      "Mains": 800,
+      "Interview": 200
+    },
+    "description": "Rajasthan Administrative Service (Rajasthan State & Subordinate Services)",
+    "negativeMarking": true
+  },
+  "TNPSC Group I": {
+    "totalMarks": 1025,
+    "subjects": {
+      "Prelims": 300,
+      "Mains": 750,
+      "Interview": 75
+    },
+    "description": "Tamil Nadu Public Service Commission Group I",
+    "negativeMarking": true
+  },
+  "KPSC KAS": {
+    "totalMarks": 1200,
+    "subjects": {
+      "Prelims": 400,
+      "Mains": 600,
+      "Interview": 200
+    },
+    "description": "Karnataka Administrative Service",
+    "negativeMarking": true
+  },
+  "TSPSC Group I": {
+    "totalMarks": 900,
+    "subjects": {
+      "Prelims": 150,
+      "Mains": 750
+    },
+    "description": "Telangana State Public Service Commission Group I",
+    "negativeMarking": true
+  },
+  "APPSC Group I": {
+    "totalMarks": 1000,
+    "subjects": {
+      "Prelims": 240,
+      "Mains": 760
+    },
+    "description": "Andhra Pradesh Public Service Commission Group I",
+    "negativeMarking": true
+  },
+  "OPSC OAS": {
+    "totalMarks": 2000,
+    "subjects": {
+      "Prelims": 400,
+      "Mains": 1400,
+      "Interview": 200
+    },
+    "description": "Odisha Administrative Service",
+    "negativeMarking": true
+  },
+  "HPSC HCS": {
+    "totalMarks": 1000,
+    "subjects": {
+      "Prelims": 200,
+      "Mains": 675,
+      "Interview": 125
+    },
+    "description": "Haryana Civil Services",
+    "negativeMarking": true
+  },
+  "CA Foundation": {
+    "totalMarks": 400,
+    "subjects": {
+      "Accounting": 100,
+      "Business Laws": 100,
+      "Mathematics/Stats/Logic": 100,
+      "Economics": 100
+    },
+    "description": "Chartered Accountancy Foundation",
+    "negativeMarking": true
+  },
+  "CA Intermediate": {
+    "totalMarks": 800,
+    "subjects": {
+      "Group I": 400,
+      "Group II": 400
+    },
+    "description": "Chartered Accountancy Intermediate",
+    "negativeMarking": false
+  },
+  "CA Final": {
+    "totalMarks": 800,
+    "subjects": {
+      "Group I": 400,
+      "Group II": 400
+    },
+    "description": "Chartered Accountancy Final",
+    "negativeMarking": false
+  },
+  "CS Executive": {
+    "totalMarks": 700,
+    "subjects": {
+      "Module I": 350,
+      "Module II": 350
+    },
+    "description": "Company Secretary Executive Programme",
+    "negativeMarking": false
+  },
+  "CS Professional": {
+    "totalMarks": 700,
+    "subjects": {
+      "Module I": 200,
+      "Module II": 250,
+      "Module III": 250
+    },
+    "description": "Company Secretary Professional Programme",
+    "negativeMarking": false
+  },
+  "CMA Foundation": {
+    "totalMarks": 400,
+    "subjects": {
+      "Paper 1": 100,
+      "Paper 2": 100,
+      "Paper 3": 100,
+      "Paper 4": 100
+    },
+    "description": "Cost & Management Accounting Foundation",
+    "negativeMarking": false
+  },
+  "CMA Intermediate": {
+    "totalMarks": 800,
+    "subjects": {
+      "Group I": 400,
+      "Group II": 400
+    },
+    "description": "Cost & Management Accounting Intermediate",
+    "negativeMarking": false
+  },
+  "CMA Final": {
+    "totalMarks": 800,
+    "subjects": {
+      "Group III": 400,
+      "Group IV": 400
+    },
+    "description": "Cost & Management Accounting Final",
+    "negativeMarking": false
+  },
+  "AIBE": {
+    "totalMarks": 100,
+    "subjects": {
+      "Law Subjects": 100
+    },
+    "description": "All India Bar Examination",
+    "negativeMarking": false
+  },
+  "FMGE": {
+    "totalMarks": 300,
+    "subjects": {
+      "Medical Sciences": 300
+    },
+    "description": "Foreign Medical Graduates Examination",
+    "negativeMarking": true
+  },
+  "TOEFL": {
+    "totalMarks": 120,
+    "subjects": {
+      "Reading": 30,
+      "Listening": 30,
+      "Speaking": 30,
+      "Writing": 30
+    },
+    "description": "Test of English as a Foreign Language",
+    "negativeMarking": false
+  },
+  "IELTS": {
+    "totalMarks": 9,
+    "subjects": {
+      "Listening": 9,
+      "Reading": 9,
+      "Writing": 9,
+      "Speaking": 9
+    },
+    "description": "International English Language Testing System",
+    "negativeMarking": false
+  },
+  "PTE Academic": {
+    "totalMarks": 90,
+    "subjects": {
+      "Speaking & Writing": 90,
+      "Reading": 90,
+      "Listening": 90
+    },
+    "description": "Pearson Test of English Academic",
+    "negativeMarking": false
+  },
+  "Duolingo English Test": {
+    "totalMarks": 160,
+    "subjects": {
+      "Literacy": 160,
+      "Comprehension": 160,
+      "Conversation": 160,
+      "Production": 160
+    },
+    "description": "Duolingo English Test",
+    "negativeMarking": false
+  }
+}

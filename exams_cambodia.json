@@ -1,0 +1,10 @@
+{
+  "Baccalauréat (Cambodia)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Exams": 100
+    },
+    "description": "Cambodian National High School Exam",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "SEE": {
+    "totalMarks": 4,
+    "subjects": {
+      "GPA": 4
+    },
+    "description": "Secondary Education Examination (Nepal)",
+    "negativeMarking": false
+  },
+  "IOM MBBS Entrance": {
+    "totalMarks": 100,
+    "subjects": {
+      "Physics": 20,
+      "Chemistry": 20,
+      "Biology": 50,
+      "English": 10
+    },
+    "description": "Institute of Medicine MBBS Entrance (Tribhuvan University, Nepal)",
+    "negativeMarking": false
+  }
+}

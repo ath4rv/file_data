@@ -1,0 +1,13 @@
+{
+  "Unified State Exam": {
+    "totalMarks": 100,
+    "subjects": {
+      "Armenian": 25,
+      "Mathematics": 25,
+      "History": 25,
+      "Elective": 25
+    },
+    "description": "Armenian University Admission Exam",
+    "negativeMarking": false
+  }
+}

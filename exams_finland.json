@@ -1,0 +1,10 @@
+{
+  "Matriculation Examination": {
+    "totalMarks": 7,
+    "subjects": {
+      "Laudatur Scale": 7
+    },
+    "description": "Finnish Matriculation Examination (Ylioppilastutkinto)",
+    "negativeMarking": false
+  }
+}

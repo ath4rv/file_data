@@ -1,0 +1,10 @@
+{
+  "STX/HTX/HHX Exams": {
+    "totalMarks": 12,
+    "subjects": {
+      "Subject Grade": 12
+    },
+    "description": "Danish Upper Secondary Leaving Exams (STX/HTX/HHX)",
+    "negativeMarking": false
+  }
+}

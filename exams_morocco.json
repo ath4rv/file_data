@@ -1,0 +1,10 @@
+{
+  "Baccalauréat (Morocco)": {
+    "totalMarks": 20,
+    "subjects": {
+      "Subject Grade": 20
+    },
+    "description": "Moroccan Baccalaureate",
+    "negativeMarking": false
+  }
+}

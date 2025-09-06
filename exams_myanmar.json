@@ -1,0 +1,15 @@
+{
+  "Matriculation Exam (Myanmar)": {
+    "totalMarks": 600,
+    "subjects": {
+      "Burmese": 100,
+      "English": 100,
+      "Mathematics": 100,
+      "Chemistry": 100,
+      "Physics": 100,
+      "Biology": 100
+    },
+    "description": "Myanmar National Matriculation Examination",
+    "negativeMarking": false
+  }
+}

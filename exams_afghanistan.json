@@ -1,0 +1,13 @@
+{
+  "Kankor": {
+    "totalMarks": 360,
+    "subjects": {
+      "Math": 90,
+      "Natural Sciences": 90,
+      "Social Sciences": 90,
+      "Languages": 90
+    },
+    "description": "Afghanistan National University Entrance Exam",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Matura (Bulgaria)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Bulgarian Language & Literature": 100
+    },
+    "description": "Bulgarian State Matriculation Exam",
+    "negativeMarking": false
+  }
+}

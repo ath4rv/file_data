@@ -1,0 +1,11 @@
+{
+  "Konkur": {
+    "totalMarks": 10000,
+    "subjects": {
+      "General Subjects": 4000,
+      "Specialized Subjects": 6000
+    },
+    "description": "Iran National University Entrance Exam",
+    "negativeMarking": true
+  }
+}

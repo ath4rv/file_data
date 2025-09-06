@@ -1,0 +1,11 @@
+{
+  "Maturita": {
+    "totalMarks": 100,
+    "subjects": {
+      "Common Part": 50,
+      "Profile Part": 50
+    },
+    "description": "Czech Secondary School Leaving Examination",
+    "negativeMarking": false
+  }
+}

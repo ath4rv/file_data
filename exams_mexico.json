@@ -1,0 +1,22 @@
+{
+  "EXANI-II": {
+    "totalMarks": 130,
+    "subjects": {
+      "Mathematics": 26,
+      "Reading": 26,
+      "Writing": 26,
+      "English": 26,
+      "Science": 26
+    },
+    "description": "National Examination for Higher Education Admission (Mexico)",
+    "negativeMarking": false
+  },
+  "CENEVAL EGEL": {
+    "totalMarks": 100,
+    "subjects": {
+      "Professional Competencies": 100
+    },
+    "description": "General Examination for Graduate Exit (Mexico)",
+    "negativeMarking": false
+  }
+}

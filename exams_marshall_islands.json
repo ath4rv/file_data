@@ -1,0 +1,13 @@
+{
+  "High School Entrance Exam": {
+    "totalMarks": 100,
+    "subjects": {
+      "English": 25,
+      "Math": 25,
+      "Science": 25,
+      "Elective": 25
+    },
+    "description": "Marshall Islands Secondary Entrance Examination",
+    "negativeMarking": false
+  }
+}

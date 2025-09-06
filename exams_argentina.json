@@ -1,0 +1,10 @@
+{
+  "CBC (UBA)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Common Basic Cycle": 100
+    },
+    "description": "Ciclo Básico Común (University of Buenos Aires)",
+    "negativeMarking": false
+  }
+}

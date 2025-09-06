@@ -1,0 +1,13 @@
+{
+  "EEC (Mongolia)": {
+    "totalMarks": 800,
+    "subjects": {
+      "Mongolian": 200,
+      "Mathematics": 200,
+      "Foreign Language": 200,
+      "Elective": 200
+    },
+    "description": "Mongolian General Entrance Exam (EEC)",
+    "negativeMarking": false
+  }
+}

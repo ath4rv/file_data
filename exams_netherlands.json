@@ -1,0 +1,11 @@
+{
+  "VWO Diploma Exams": {
+    "totalMarks": 100,
+    "subjects": {
+      "Central Exams": 50,
+      "School Exams": 50
+    },
+    "description": "Voorbereidend Wetenschappelijk Onderwijs (Pre-university Education) Exams",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "Batxillerat": {
+    "totalMarks": 100,
+    "subjects": {
+      "Catalan": 25,
+      "Math": 25,
+      "Science": 25,
+      "Elective": 25
+    },
+    "description": "Andorran Secondary School Leaving Exam",
+    "negativeMarking": false
+  }
+}

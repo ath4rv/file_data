@@ -1,0 +1,11 @@
+{
+  "Érettségi": {
+    "totalMarks": 100,
+    "subjects": {
+      "Intermediate Level": 50,
+      "Advanced Level": 50
+    },
+    "description": "Hungarian Secondary School Leaving Examination",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "CESS": {
+    "totalMarks": 100,
+    "subjects": {
+      "Final Exams": 100
+    },
+    "description": "Certificat d'Enseignement Secondaire Supérieur",
+    "negativeMarking": false
+  }
+}

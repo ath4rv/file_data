@@ -1,0 +1,13 @@
+{
+  "Centralized Exams": {
+    "totalMarks": 100,
+    "subjects": {
+      "Latvian": 25,
+      "Mathematics": 25,
+      "Foreign Language": 25,
+      "Elective": 25
+    },
+    "description": "Latvian State Centralized Examinations",
+    "negativeMarking": false
+  }
+}

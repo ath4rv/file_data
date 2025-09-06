@@ -1,0 +1,10 @@
+{
+  "Bachillerato (Costa Rica)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Exams": 100
+    },
+    "description": "Costa Rican High School Diploma Exams",
+    "negativeMarking": false
+  }
+}

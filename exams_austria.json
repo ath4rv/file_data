@@ -1,0 +1,11 @@
+{
+  "Matura (Austria)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Written Exams": 50,
+      "Oral Exams": 50
+    },
+    "description": "Austrian Matura (Reifeprüfung)",
+    "negativeMarking": false
+  }
+}

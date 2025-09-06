@@ -1,0 +1,10 @@
+{
+  "Upper Secondary Graduation Exam (Laos)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Exams": 100
+    },
+    "description": "Laos National Upper Secondary Graduation Exam",
+    "negativeMarking": false
+  }
+}

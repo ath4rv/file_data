@@ -1,0 +1,20 @@
+{
+  "Leaving Certificate": {
+    "totalMarks": 625,
+    "subjects": {
+      "Higher Level Subjects": 625
+    },
+    "description": "Irish Leaving Certificate Examination",
+    "negativeMarking": false
+  },
+  "HPAT Ireland": {
+    "totalMarks": 300,
+    "subjects": {
+      "Section 1": 100,
+      "Section 2": 100,
+      "Section 3": 100
+    },
+    "description": "Health Professions Admission Test (Ireland)",
+    "negativeMarking": false
+  }
+}

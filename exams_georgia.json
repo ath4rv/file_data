@@ -1,0 +1,13 @@
+{
+  "Unified Entry Exams": {
+    "totalMarks": 100,
+    "subjects": {
+      "Georgian": 25,
+      "Mathematics": 25,
+      "Foreign Language": 25,
+      "General Skills": 25
+    },
+    "description": "Georgian Unified National Examinations",
+    "negativeMarking": false
+  }
+}

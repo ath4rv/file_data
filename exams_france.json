@@ -1,0 +1,76 @@
+{
+  "Baccalaur\u00e9at": {
+    "totalMarks": 20,
+    "subjects": {
+      "French": 5,
+      "Mathematics": 5,
+      "Sciences": 5,
+      "History & Geography": 5
+    },
+    "description": "French National Secondary School Leaving Exam",
+    "negativeMarking": false
+  },
+  "Concours CPGE": {
+    "totalMarks": 600,
+    "subjects": {
+      "Mathematics": 200,
+      "Physics": 200,
+      "Chemistry": 100,
+      "Essay": 100
+    },
+    "description": "Competitive Entrance Exams for Grandes \u00c9coles (Classes Pr\u00e9paratoires)",
+    "negativeMarking": true
+  },
+  "\u00c9cole Nationale d\u2019Administration Exam": {
+    "totalMarks": 600,
+    "subjects": {
+      "General Knowledge": 200,
+      "Law & Economics": 200,
+      "Essay": 200
+    },
+    "description": "Entrance Exam for \u00c9cole Nationale d\u2019Administration",
+    "negativeMarking": true
+  },
+  "Concours M\u00e9decine": {
+    "totalMarks": 1000,
+    "subjects": {
+      "Biology": 300,
+      "Chemistry": 300,
+      "Physics": 200,
+      "Mathematics": 200
+    },
+    "description": "First-Year Medical Studies Exam (France)",
+    "negativeMarking": true
+  },
+  "Barreau de Paris": {
+    "totalMarks": 400,
+    "subjects": {
+      "Written Exam": 200,
+      "Oral Exam": 200
+    },
+    "description": "French Bar Examination",
+    "negativeMarking": false
+  },
+  "TCF": {
+    "totalMarks": 699,
+    "subjects": {
+      "Listening": 699,
+      "Reading": 699,
+      "Speaking": 699,
+      "Writing": 699
+    },
+    "description": "Test de Connaissance du Fran\u00e7ais",
+    "negativeMarking": false
+  },
+  "DALF": {
+    "totalMarks": 100,
+    "subjects": {
+      "Listening": 25,
+      "Reading": 25,
+      "Writing": 25,
+      "Speaking": 25
+    },
+    "description": "Dipl\u00f4me Approfondi de Langue Fran\u00e7aise",
+    "negativeMarking": false
+  }
+}

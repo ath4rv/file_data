@@ -1,0 +1,96 @@
+{
+  "Abitur": {
+    "totalMarks": 900,
+    "subjects": {
+      "Core Subjects": 300,
+      "Electives": 300,
+      "Final Exams": 300
+    },
+    "description": "Allgemeine Hochschulreife (German University Entrance Qualification)",
+    "negativeMarking": false
+  },
+  "Feststellungspr\u00fcfung": {
+    "totalMarks": 300,
+    "subjects": {
+      "German Language": 100,
+      "Mathematics": 100,
+      "Subject-Specific": 100
+    },
+    "description": "Assessment Test for International Students",
+    "negativeMarking": false
+  },
+  "DSH": {
+    "totalMarks": 100,
+    "subjects": {
+      "Reading": 25,
+      "Listening": 25,
+      "Writing": 25,
+      "Speaking": 25
+    },
+    "description": "Deutsche Sprachpr\u00fcfung f\u00fcr den Hochschulzugang",
+    "negativeMarking": false
+  },
+  "TestDaF": {
+    "totalMarks": 20,
+    "subjects": {
+      "Reading": 5,
+      "Listening": 5,
+      "Writing": 5,
+      "Speaking": 5
+    },
+    "description": "Test Deutsch als Fremdsprache",
+    "negativeMarking": false
+  },
+  "Staatsexamen Medizin": {
+    "totalMarks": 300,
+    "subjects": {
+      "Basic Sciences": 100,
+      "Clinical Sciences": 100,
+      "Practical Exam": 100
+    },
+    "description": "German Medical State Examination",
+    "negativeMarking": false
+  },
+  "Staatsexamen Jurisprudenz": {
+    "totalMarks": 200,
+    "subjects": {
+      "First Exam": 100,
+      "Second Exam": 100
+    },
+    "description": "German State Examination in Law",
+    "negativeMarking": false
+  },
+  "Wirtschaftspr\u00fcfer": {
+    "totalMarks": 400,
+    "subjects": {
+      "Accounting": 100,
+      "Taxation": 100,
+      "Law": 100,
+      "Business": 100
+    },
+    "description": "German Public Auditor Examination",
+    "negativeMarking": false
+  },
+  "IELTS": {
+    "totalMarks": 9,
+    "subjects": {
+      "Listening": 9,
+      "Reading": 9,
+      "Writing": 9,
+      "Speaking": 9
+    },
+    "description": "International English Language Testing System",
+    "negativeMarking": false
+  },
+  "TOEFL": {
+    "totalMarks": 120,
+    "subjects": {
+      "Reading": 30,
+      "Listening": 30,
+      "Speaking": 30,
+      "Writing": 30
+    },
+    "description": "Test of English as a Foreign Language",
+    "negativeMarking": false
+  }
+}

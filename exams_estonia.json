@@ -1,0 +1,13 @@
+{
+  "Riigieksamid": {
+    "totalMarks": 100,
+    "subjects": {
+      "Estonian": 25,
+      "Mathematics": 25,
+      "Foreign Language": 25,
+      "Elective": 25
+    },
+    "description": "Estonian State Examinations",
+    "negativeMarking": false
+  }
+}

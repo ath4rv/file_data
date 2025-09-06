@@ -1,0 +1,10 @@
+{
+  "Panhellenic Exams": {
+    "totalMarks": 200,
+    "subjects": {
+      "Subject Exams": 200
+    },
+    "description": "Panelladikes Exetaseis (Greece)",
+    "negativeMarking": false
+  }
+}

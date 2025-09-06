@@ -1,0 +1,13 @@
+{
+  "UNT": {
+    "totalMarks": 140,
+    "subjects": {
+      "Reading Literacy": 20,
+      "Math Literacy": 20,
+      "History of Kazakhstan": 20,
+      "Profile Subjects": 80
+    },
+    "description": "Unified National Testing (Kazakhstan)",
+    "negativeMarking": false
+  }
+}
