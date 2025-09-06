@@ -1,0 +1,23 @@
+{
+  "GAT/PAT": {
+    "totalMarks": 300,
+    "subjects": {
+      "GAT": 150,
+      "PAT": 150
+    },
+    "description": "General Aptitude Test and Professional/Academic Aptitude Test (Thailand)",
+    "negativeMarking": false
+  },
+  "ONet": {
+    "totalMarks": 500,
+    "subjects": {
+      "Thai": 100,
+      "Social Studies": 100,
+      "English": 100,
+      "Mathematics": 100,
+      "Science": 100
+    },
+    "description": "Ordinary National Educational Test (Thailand)",
+    "negativeMarking": false
+  }
+}

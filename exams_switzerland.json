@@ -1,0 +1,11 @@
+{
+  "Matura": {
+    "totalMarks": 100,
+    "subjects": {
+      "Written Exams": 50,
+      "Oral Exams": 50
+    },
+    "description": "Swiss Maturity Certificate (Matura/Maturité/Maturità)",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "YKS": {
+    "totalMarks": 500,
+    "subjects": {
+      "TYT": 200,
+      "AYT": 200,
+      "YDT": 100
+    },
+    "description": "Higher Education Institutions Exam (Turkey)",
+    "negativeMarking": false
+  },
+  "TUS": {
+    "totalMarks": 100,
+    "subjects": {
+      "Basic Medical Sciences": 50,
+      "Clinical Medical Sciences": 50
+    },
+    "description": "Medical Specialization Exam (Turkey)",
+    "negativeMarking": false
+  }
+}

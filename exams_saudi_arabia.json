@@ -1,0 +1,20 @@
+{
+  "Qiyas GAT": {
+    "totalMarks": 100,
+    "subjects": {
+      "Quantitative": 50,
+      "Verbal": 50
+    },
+    "description": "General Aptitude Test (Saudi Arabia)",
+    "negativeMarking": false
+  },
+  "Saudi Medical Licensing Exam": {
+    "totalMarks": 300,
+    "subjects": {
+      "Basic Sciences": 100,
+      "Clinical Sciences": 200
+    },
+    "description": "SMLE (Saudi Commission for Health Specialties)",
+    "negativeMarking": false
+  }
+}

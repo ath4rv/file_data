@@ -1,0 +1,11 @@
+{
+  "Matura": {
+    "totalMarks": 34,
+    "subjects": {
+      "Compulsory Subjects": 20,
+      "Electives": 14
+    },
+    "description": "Slovenian National Matura Exam",
+    "negativeMarking": false
+  }
+}

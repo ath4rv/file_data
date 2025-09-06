@@ -1,0 +1,13 @@
+{
+  "Maturita": {
+    "totalMarks": 100,
+    "subjects": {
+      "Slovak Language": 25,
+      "Mathematics": 25,
+      "Foreign Language": 25,
+      "Elective": 25
+    },
+    "description": "Slovak Secondary School Leaving Examination",
+    "negativeMarking": false
+  }
+}

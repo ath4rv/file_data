@@ -1,0 +1,12 @@
+{
+  "GCE A/L (Sri Lanka)": {
+    "totalMarks": 300,
+    "subjects": {
+      "Subject 1": 100,
+      "Subject 2": 100,
+      "Subject 3": 100
+    },
+    "description": "General Certificate of Education Advanced Level (Sri Lanka)",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "PAA": {
+    "totalMarks": 800,
+    "subjects": {
+      "Math": 200,
+      "Verbal": 200,
+      "English": 200,
+      "Spanish": 200
+    },
+    "description": "Prueba de Aptitud Acad\u00e9mica (Puerto Rico college entrance exam)",
+    "negativeMarking": false
+  }
+}

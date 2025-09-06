@@ -1,0 +1,18 @@
+{
+  "Unified State Exam (EGE)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Score": 100
+    },
+    "description": "Ediny Gosudarstvenny Ekzamen",
+    "negativeMarking": false
+  },
+  "USE in Math": {
+    "totalMarks": 100,
+    "subjects": {
+      "Profile-level Mathematics": 100
+    },
+    "description": "Unified State Exam Mathematics (Profile Level)",
+    "negativeMarking": false
+  }
+}

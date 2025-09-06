@@ -1,0 +1,13 @@
+{
+  "Baccalaureate Western Sahara": {
+    "totalMarks": 100,
+    "subjects": {
+      "Arabic": 25,
+      "French": 25,
+      "Math": 25,
+      "Science": 25
+    },
+    "description": "Western Sahara Baccalaureate (aligned with Moroccan system)",
+    "negativeMarking": false
+  }
+}

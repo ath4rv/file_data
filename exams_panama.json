@@ -1,0 +1,13 @@
+{
+  "Examen de Ingreso (UP)": {
+    "totalMarks": 1000,
+    "subjects": {
+      "Mathematics": 300,
+      "Spanish": 300,
+      "English": 200,
+      "General Knowledge": 200
+    },
+    "description": "University of Panama Admission Exam",
+    "negativeMarking": false
+  }
+}

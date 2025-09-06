@@ -1,0 +1,10 @@
+{
+  "Exames Nacionais": {
+    "totalMarks": 200,
+    "subjects": {
+      "Subject Exams": 200
+    },
+    "description": "Portuguese National Secondary Exams",
+    "negativeMarking": false
+  }
+}

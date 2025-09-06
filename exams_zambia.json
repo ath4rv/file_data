@@ -1,0 +1,13 @@
+{
+  "GCE Exams": {
+    "totalMarks": 100,
+    "subjects": {
+      "English": 25,
+      "Mathematics": 25,
+      "Science": 25,
+      "Elective": 25
+    },
+    "description": "Zambia General Certificate of Education Examinations",
+    "negativeMarking": false
+  }
+}

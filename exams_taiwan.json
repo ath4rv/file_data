@@ -1,0 +1,22 @@
+{
+  "GSAT": {
+    "totalMarks": 75,
+    "subjects": {
+      "Chinese": 15,
+      "English": 15,
+      "Math": 15,
+      "Social Studies": 15,
+      "Science": 15
+    },
+    "description": "General Scholastic Ability Test (Taiwan)",
+    "negativeMarking": false
+  },
+  "AST": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Tests": 100
+    },
+    "description": "Advanced Subjects Test (Taiwan)",
+    "negativeMarking": false
+  }
+}

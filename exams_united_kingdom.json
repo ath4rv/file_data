@@ -1,0 +1,77 @@
+{
+  "GCSE": {
+    "totalMarks": 9,
+    "subjects": {
+      "Subject Grade": 9
+    },
+    "description": "General Certificate of Secondary Education (grading 9–1)",
+    "negativeMarking": false
+  },
+  "A-Levels": {
+    "totalMarks": 300,
+    "subjects": {
+      "Paper 1": 100,
+      "Paper 2": 100,
+      "Paper 3": 100
+    },
+    "description": "General Certificate of Education Advanced Level",
+    "negativeMarking": false
+  },
+  "UCAT": {
+    "totalMarks": 3600,
+    "subjects": {
+      "Verbal Reasoning": 900,
+      "Decision Making": 900,
+      "Quantitative Reasoning": 900,
+      "Abstract Reasoning": 900
+    },
+    "description": "University Clinical Aptitude Test (Medicine/Dentistry)",
+    "negativeMarking": false
+  },
+  "BMAT": {
+    "totalMarks": 9,
+    "subjects": {
+      "Aptitude & Skills": 9,
+      "Scientific Knowledge": 9,
+      "Writing Task": 9
+    },
+    "description": "BioMedical Admissions Test",
+    "negativeMarking": false
+  },
+  "LNAT": {
+    "totalMarks": 42,
+    "subjects": {
+      "Multiple Choice": 42
+    },
+    "description": "National Admissions Test for Law",
+    "negativeMarking": false
+  },
+  "GAMSAT": {
+    "totalMarks": 100,
+    "subjects": {
+      "Reasoning in Humanities": 100,
+      "Written Communication": 100,
+      "Reasoning in Biological/Physical Sciences": 100
+    },
+    "description": "Graduate Medical School Admissions Test",
+    "negativeMarking": false
+  },
+  "PLAB": {
+    "totalMarks": 250,
+    "subjects": {
+      "PLAB 1": 180,
+      "PLAB 2": 70
+    },
+    "description": "Professional and Linguistic Assessments Board (UK Medical Licensing for IMGs)",
+    "negativeMarking": false
+  },
+  "SQE": {
+    "totalMarks": 360,
+    "subjects": {
+      "SQE1 FLK1": 180,
+      "SQE1 FLK2": 180
+    },
+    "description": "Solicitors Qualifying Examination (England & Wales)",
+    "negativeMarking": false
+  }
+}

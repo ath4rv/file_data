@@ -1,0 +1,12 @@
+{
+  "NMT (Ukraine)": {
+    "totalMarks": 200,
+    "subjects": {
+      "Ukrainian Language": 70,
+      "Mathematics": 70,
+      "History/Foreign Language": 60
+    },
+    "description": "National Multi-subject Test (Ukraine)",
+    "negativeMarking": false
+  }
+}

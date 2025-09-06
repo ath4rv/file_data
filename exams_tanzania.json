@@ -1,0 +1,12 @@
+{
+  "NECTA ACSEE": {
+    "totalMarks": 100,
+    "subjects": {
+      "General Studies": 20,
+      "Compulsory Subjects": 40,
+      "Electives": 40
+    },
+    "description": "Tanzania Advanced Certificate of Secondary Education Examination",
+    "negativeMarking": false
+  }
+}

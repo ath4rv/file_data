@@ -1,0 +1,11 @@
+{
+  "ZIMSEC A-Level": {
+    "totalMarks": 100,
+    "subjects": {
+      "Compulsory": 40,
+      "Electives": 60
+    },
+    "description": "Zimbabwe School Examinations Council Advanced Level",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Vietnam National High School Exam": {
+    "totalMarks": 30,
+    "subjects": {
+      "Math": 10,
+      "Literature": 10,
+      "Foreign Language": 10
+    },
+    "description": "Kỳ thi THPT Quốc gia (University Entrance cum High School Graduation)",
+    "negativeMarking": false
+  }
+}

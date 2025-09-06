@@ -1,0 +1,140 @@
+[
+  {
+    "name": "National University of Singapore (NUS)",
+    "country": "Singapore",
+    "type": "public",
+    "city": "Singapore",
+    "state_province": "",
+    "establishedYear": 1905,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://nus.edu.sg",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+      "https://www.nus.edu.sg/about"
+    ]
+  },
+  {
+    "name": "Nanyang Technological University (NTU)",
+    "country": "Singapore",
+    "type": "public",
+    "city": "Singapore",
+    "state_province": "",
+    "establishedYear": 1991,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.ntu.edu.sg",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+      "https://www.ntu.edu.sg/about-us/history"
+    ]
+  },
+  {
+    "name": "Singapore Management University (SMU)",
+    "country": "Singapore",
+    "type": "publicly funded",
+    "city": "Singapore",
+    "state_province": "",
+    "establishedYear": 2000,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.smu.edu.sg",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+      "https://www.nlb.gov.sg/main/article-detail?cmsuuid=b6326253-7512-462e-8969-8a26952b324c"
+    ]
+  },
+  {
+    "name": "Singapore University of Technology and Design (SUTD)",
+    "country": "Singapore",
+    "type": "public",
+    "city": "Singapore",
+    "state_province": "",
+    "establishedYear": 2009,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.sutd.edu.sg",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+      "https://www.sutd.edu.sg/research/research-centres/designz/about/introduction/"
+    ]
+  },
+  {
+    "name": "Singapore Institute of Technology (SIT)",
+    "country": "Singapore",
+    "type": "public",
+    "city": "Singapore",
+    "state_province": "",
+    "establishedYear": 2009,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.singaporetech.edu.sg",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+      "https://www.singaporetech.edu.sg/about/our-history"
+    ]
+  },
+  {
+    "name": "Singapore University of Social Sciences (SUSS)",
+    "country": "Singapore",
+    "type": "public",
+    "city": "Singapore",
+    "state_province": "",
+    "establishedYear": 2017,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.suss.edu.sg",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.moe.gov.sg/post-secondary/overview/autonomous-universities",
+      "https://www.suss.edu.sg/about"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Prueba de Aptitud Acad\u00e9mica": {
+    "totalMarks": 100,
+    "subjects": {
+      "Verbal": 50,
+      "Quantitative": 50
+    },
+    "description": "Venezuelan University Entrance Exam",
+    "negativeMarking": false
+  }
+}

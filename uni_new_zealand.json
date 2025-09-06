@@ -1,0 +1,178 @@
+[
+  {
+    "name": "University of Auckland",
+    "country": "New Zealand",
+    "type": "public",
+    "city": "Auckland",
+    "state_province": "Auckland",
+    "establishedYear": 1883,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.auckland.ac.nz",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.universitiesnz.ac.nz/universities"
+    ]
+  },
+  {
+    "name": "Auckland University of Technology (AUT)",
+    "country": "New Zealand",
+    "type": "public",
+    "city": "Auckland",
+    "state_province": "Auckland",
+    "establishedYear": 2000,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.aut.ac.nz",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.universitiesnz.ac.nz/universities"
+    ]
+  },
+  {
+    "name": "University of Waikato",
+    "country": "New Zealand",
+    "type": "public",
+    "city": "Hamilton",
+    "state_province": "Waikato",
+    "establishedYear": 1964,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.waikato.ac.nz",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.universitiesnz.ac.nz/universities"
+    ]
+  },
+  {
+    "name": "Massey University",
+    "country": "New Zealand",
+    "type": "public",
+    "city": "Palmerston North",
+    "state_province": "Manawatū-Whanganui",
+    "establishedYear": 1927,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.massey.ac.nz",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.universitiesnz.ac.nz/universities"
+    ]
+  },
+  {
+    "name": "Victoria University of Wellington",
+    "country": "New Zealand",
+    "type": "public",
+    "city": "Wellington",
+    "state_province": "Wellington",
+    "establishedYear": 1897,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.wgtn.ac.nz",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.universitiesnz.ac.nz/universities"
+    ]
+  },
+  {
+    "name": "University of Canterbury",
+    "country": "New Zealand",
+    "type": "public",
+    "city": "Christchurch",
+    "state_province": "Canterbury",
+    "establishedYear": 1873,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.canterbury.ac.nz",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.universitiesnz.ac.nz/universities"
+    ]
+  },
+  {
+    "name": "Lincoln University",
+    "country": "New Zealand",
+    "type": "public",
+    "city": "Lincoln",
+    "state_province": "Canterbury",
+    "establishedYear": 1878,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.lincoln.ac.nz",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.universitiesnz.ac.nz/universities"
+    ]
+  },
+  {
+    "name": "University of Otago",
+    "country": "New Zealand",
+    "type": "public",
+    "city": "Dunedin",
+    "state_province": "Otago",
+    "establishedYear": 1869,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.otago.ac.nz",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.universitiesnz.ac.nz/universities"
+    ]
+  }
+]

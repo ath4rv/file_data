@@ -1,0 +1,132 @@
+{
+  "SAT": {
+    "totalMarks": 1600,
+    "subjects": {
+      "Math": 800,
+      "EBRW": 800
+    },
+    "description": "Scholastic Assessment Test",
+    "negativeMarking": false
+  },
+  "ACT": {
+    "totalMarks": 36,
+    "subjects": {
+      "English": 36,
+      "Math": 36,
+      "Reading": 36,
+      "Science": 36
+    },
+    "description": "American College Testing",
+    "negativeMarking": false
+  },
+  "AP Exams": {
+    "totalMarks": 5,
+    "subjects": {
+      "Subject-Specific": 5
+    },
+    "description": "Advanced Placement Exams",
+    "negativeMarking": false
+  },
+  "GRE": {
+    "totalMarks": 340,
+    "subjects": {
+      "Verbal Reasoning": 170,
+      "Quantitative Reasoning": 170
+    },
+    "description": "Graduate Record Examination",
+    "negativeMarking": false
+  },
+  "GMAT": {
+    "totalMarks": 800,
+    "subjects": {
+      "Quantitative": 200,
+      "Verbal": 200,
+      "Integrated Reasoning": 12,
+      "Analytical Writing": 6
+    },
+    "description": "Graduate Management Admission Test",
+    "negativeMarking": false
+  },
+  "LSAT": {
+    "totalMarks": 180,
+    "subjects": {
+      "Logical Reasoning": 50,
+      "Analytical Reasoning": 50,
+      "Reading Comprehension": 50,
+      "Writing Sample": 30
+    },
+    "description": "Law School Admission Test",
+    "negativeMarking": false
+  },
+  "MCAT": {
+    "totalMarks": 528,
+    "subjects": {
+      "Biological & Biochemical": 132,
+      "Chemical & Physical": 132,
+      "Psychological & Social": 132,
+      "Critical Analysis": 132
+    },
+    "description": "Medical College Admission Test",
+    "negativeMarking": false
+  },
+  "USMLE": {
+    "totalMarks": 300,
+    "subjects": {
+      "Step 1": 300,
+      "Step 2 CK": 300,
+      "Step 3": 300
+    },
+    "description": "United States Medical Licensing Examination",
+    "negativeMarking": false
+  },
+  "NCLEX": {
+    "totalMarks": 75,
+    "subjects": {
+      "Nursing Competency": 75
+    },
+    "description": "National Council Licensure Examination",
+    "negativeMarking": false
+  },
+  "CPA": {
+    "totalMarks": 400,
+    "subjects": {
+      "Auditing": 100,
+      "Financial Accounting": 100,
+      "Regulation": 100,
+      "Business Environment": 100
+    },
+    "description": "Certified Public Accountant Exam",
+    "negativeMarking": false
+  },
+  "BAR Exam": {
+    "totalMarks": 400,
+    "subjects": {
+      "Multistate Bar Exam": 200,
+      "Essay & Performance Tests": 200
+    },
+    "description": "State Bar Examination (varies by state)",
+    "negativeMarking": false
+  },
+  "TOEFL": {
+    "totalMarks": 120,
+    "subjects": {
+      "Reading": 30,
+      "Listening": 30,
+      "Speaking": 30,
+      "Writing": 30
+    },
+    "description": "Test of English as a Foreign Language",
+    "negativeMarking": false
+  },
+  "IELTS": {
+    "totalMarks": 9,
+    "subjects": {
+      "Listening": 9,
+      "Reading": 9,
+      "Writing": 9,
+      "Speaking": 9
+    },
+    "description": "International English Language Testing System",
+    "negativeMarking": false
+  }
+}

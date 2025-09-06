@@ -1,0 +1,117 @@
+[
+  {
+    "name": "United Arab Emirates University (UAEU)",
+    "country": "United Arab Emirates",
+    "type": "public",
+    "city": "Al Ain",
+    "state_province": "Abu Dhabi",
+    "establishedYear": 1976,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.uaeu.ac.ae/en/",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.uaeu.ac.ae/en/about/index.shtml",
+      "https://caa.ae/Pages/Institutes/All.aspx"
+    ]
+  },
+  {
+    "name": "Khalifa University",
+    "country": "United Arab Emirates",
+    "type": "public",
+    "city": "Abu Dhabi",
+    "state_province": "Abu Dhabi",
+    "establishedYear": 2017,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.ku.ac.ae",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://ku-ae.smartcatalogiq.com/en/2023-2024/graduate-catalog/the-university",
+      "https://caa.ae/Pages/Institutes/All.aspx"
+    ]
+  },
+  {
+    "name": "University of Sharjah (UoS)",
+    "country": "United Arab Emirates",
+    "type": "private",
+    "city": "Sharjah",
+    "state_province": "Sharjah",
+    "establishedYear": 1997,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.sharjah.ac.ae",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.timeshighereducation.com/world-university-rankings/university-sharjah",
+      "https://caa.ae/Pages/Institutes/All.aspx"
+    ]
+  },
+  {
+    "name": "American University of Sharjah (AUS)",
+    "country": "United Arab Emirates",
+    "type": "private, non-profit",
+    "city": "Sharjah",
+    "state_province": "Sharjah",
+    "establishedYear": 1997,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.aus.edu",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.aaicu.org/american-university-of-sharjah-aus/",
+      "https://caa.ae/Pages/Institutes/All.aspx"
+    ]
+  },
+  {
+    "name": "Zayed University",
+    "country": "United Arab Emirates",
+    "type": "public",
+    "city": "Abu Dhabi; Dubai",
+    "state_province": "Abu Dhabi; Dubai",
+    "establishedYear": 1998,
+    "accreditation": "",
+    "programsOffered": [],
+    "acceptanceRate": 0,
+    "tuition": 0,
+    "satRange": [
+      0,
+      0
+    ],
+    "gpaMin": 0,
+    "website": "https://www.zu.ac.ae",
+    "sourcesVerifiedOn": "2025-09-06",
+    "sources": [
+      "https://www.zu.ac.ae/main/en/explore_zu/index",
+      "https://caa.ae/Pages/Institutes/All.aspx"
+    ]
+  }
+]

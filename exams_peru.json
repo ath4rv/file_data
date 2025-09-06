@@ -1,0 +1,11 @@
+{
+  "Examen de Admisión (UNMSM)": {
+    "totalMarks": 2000,
+    "subjects": {
+      "Skills": 1000,
+      "Knowledge": 1000
+    },
+    "description": "San Marcos University Admission Exam (Peru)",
+    "negativeMarking": false
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "DTM (Uzbekistan)": {
+    "totalMarks": 189,
+    "subjects": {
+      "Primary Subject 1": 63,
+      "Primary Subject 2": 63,
+      "Additional Subject": 63
+    },
+    "description": "State Testing Center University Entrance Exam",
+    "negativeMarking": false
+  }
+}

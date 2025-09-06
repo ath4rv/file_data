@@ -1,0 +1,18 @@
+{
+  "EmSAT": {
+    "totalMarks": 2000,
+    "subjects": {
+      "EmSAT Achieve Tests": 2000
+    },
+    "description": "Emirates Standardized Test",
+    "negativeMarking": false
+  },
+  "MOHAP Licensing": {
+    "totalMarks": 100,
+    "subjects": {
+      "Medical Knowledge": 100
+    },
+    "description": "UAE Ministry of Health and Prevention Licensing Exam",
+    "negativeMarking": false
+  }
+}

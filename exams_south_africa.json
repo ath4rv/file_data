@@ -1,0 +1,19 @@
+{
+  "NSC (Matric)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Grade": 100
+    },
+    "description": "National Senior Certificate (South Africa)",
+    "negativeMarking": false
+  },
+  "NBT": {
+    "totalMarks": 200,
+    "subjects": {
+      "Academic Literacy": 100,
+      "Quantitative Literacy": 100
+    },
+    "description": "National Benchmark Tests (South Africa)",
+    "negativeMarking": false
+  }
+}

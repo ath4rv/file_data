@@ -1,0 +1,32 @@
+{
+  "CSAT (Suneung)": {
+    "totalMarks": 400,
+    "subjects": {
+      "Korean Language": 100,
+      "Mathematics": 100,
+      "English": 100,
+      "Science/Social Studies": 100
+    },
+    "description": "College Scholastic Ability Test (South Korea)",
+    "negativeMarking": false
+  },
+  "TOPIK II": {
+    "totalMarks": 300,
+    "subjects": {
+      "Listening": 100,
+      "Reading": 100,
+      "Writing": 100
+    },
+    "description": "Test of Proficiency in Korean",
+    "negativeMarking": false
+  },
+  "KMLE": {
+    "totalMarks": 400,
+    "subjects": {
+      "Basic Medicine": 200,
+      "Clinical Medicine": 200
+    },
+    "description": "Korean Medical Licensing Examination",
+    "negativeMarking": false
+  }
+}

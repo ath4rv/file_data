@@ -1,0 +1,38 @@
+{
+  "PSLE": {
+    "totalMarks": 300,
+    "subjects": {
+      "English": 75,
+      "Mother Tongue": 75,
+      "Mathematics": 75,
+      "Science": 75
+    },
+    "description": "Primary School Leaving Examination (Singapore)",
+    "negativeMarking": false
+  },
+  "GCE O-Level (Singapore)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Subject Grade": 100
+    },
+    "description": "General Certificate of Education Ordinary Level (Singapore)",
+    "negativeMarking": false
+  },
+  "GCE A-Level (Singapore)": {
+    "totalMarks": 100,
+    "subjects": {
+      "H1/H2/H3 Subjects": 100
+    },
+    "description": "General Certificate of Education Advanced Level (Singapore)",
+    "negativeMarking": false
+  },
+  "BAR (Singapore)": {
+    "totalMarks": 200,
+    "subjects": {
+      "Part A": 100,
+      "Part B": 100
+    },
+    "description": "Singapore Bar Examinations",
+    "negativeMarking": false
+  }
+}

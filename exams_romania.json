@@ -1,0 +1,10 @@
+{
+  "Bacalaureat": {
+    "totalMarks": 10,
+    "subjects": {
+      "Subject Grade": 10
+    },
+    "description": "Romanian Baccalaureate",
+    "negativeMarking": false
+  }
+}

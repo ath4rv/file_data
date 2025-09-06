@@ -1,0 +1,10 @@
+{
+  "Matura (Serbia)": {
+    "totalMarks": 100,
+    "subjects": {
+      "General/Elective Exams": 100
+    },
+    "description": "Serbian State Matura",
+    "negativeMarking": false
+  }
+}

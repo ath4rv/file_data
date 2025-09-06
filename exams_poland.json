@@ -1,0 +1,11 @@
+{
+  "Matura (Poland)": {
+    "totalMarks": 100,
+    "subjects": {
+      "Basic Level": 50,
+      "Extended Level": 50
+    },
+    "description": "Polish Matura (Secondary School Leaving Exam)",
+    "negativeMarking": false
+  }
+}

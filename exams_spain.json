@@ -1,0 +1,19 @@
+{
+  "EBAU (Selectividad)": {
+    "totalMarks": 14,
+    "subjects": {
+      "General Phase": 10,
+      "Specific Phase": 4
+    },
+    "description": "Evaluación del Bachillerato para el Acceso a la Universidad",
+    "negativeMarking": false
+  },
+  "MIR": {
+    "totalMarks": 100,
+    "subjects": {
+      "Medical Knowledge": 100
+    },
+    "description": "Médico Interno Residente (Medical Residency Exam, Spain)",
+    "negativeMarking": false
+  }
+}

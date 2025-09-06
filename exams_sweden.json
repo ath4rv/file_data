@@ -1,0 +1,11 @@
+{
+  "Högskoleprovet": {
+    "totalMarks": 2.0,
+    "subjects": {
+      "Quantitative": 1.0,
+      "Verbal": 1.0
+    },
+    "description": "Swedish Scholastic Aptitude Test",
+    "negativeMarking": false
+  }
+}

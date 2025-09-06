@@ -1,0 +1,8143 @@
+[
+  {
+    "name": "Indian Institute of Science",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Madras",
+    "ranking": 1,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Chennai, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Delhi",
+    "ranking": 4,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Bombay",
+    "ranking": 3,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mumbai, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "ranking": 5,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kanpur, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Kharagpur",
+    "ranking": 6,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kharagpur, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Roorkee",
+    "ranking": 7,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Roorkee, Uttarakhand, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Guwahati",
+    "ranking": 11,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Guwahati, Assam, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Hyderabad",
+    "ranking": 12,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology (BHU) Varanasi",
+    "ranking": 31,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Varanasi, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Indore",
+    "ranking": 27,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Indore, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Ropar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Rupnagar, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Mandi",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mandi, Himachal Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Gandhinagar",
+    "ranking": 39,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gandhinagar, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Bhubaneswar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhubaneswar, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Patna",
+    "ranking": 36,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Patna, Bihar, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Jodhpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jodhpur, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Tirupati",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tirupati, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Palakkad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Palakkad, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Dhanbad (ISM)",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Dhanbad, Jharkhand, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Bhilai",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhilai, Chhattisgarh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Goa",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ponda, Goa, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Jammu",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jammu, Jammu & Kashmir, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Technology Dharwad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Dharwad, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Tiruchirappalli",
+    "ranking": 30,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tiruchirappalli, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Karnataka, Surathkal",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Surathkal, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Rourkela",
+    "ranking": 34,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Rourkela, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Warangal",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Warangal, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Calicut",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kozhikode, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Motilal Nehru National Institute of Technology Allahabad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Prayagraj, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Visvesvaraya National Institute of Technology Nagpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Nagpur, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "University of Delhi",
+    "ranking": 15,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Law",
+      "Social Sciences",
+      "Languages",
+      "Computer Science",
+      "Economics"
+    ]
+  },
+  {
+    "name": "Jawaharlal Nehru University",
+    "ranking": 9,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Law",
+      "Social Sciences",
+      "Languages",
+      "Computer Science",
+      "Economics"
+    ]
+  },
+  {
+    "name": "Banaras Hindu University",
+    "ranking": 10,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Varanasi, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Law",
+      "Social Sciences",
+      "Languages",
+      "Computer Science",
+      "Economics"
+    ]
+  },
+  {
+    "name": "Aligarh Muslim University",
+    "ranking": 19,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Aligarh, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Law",
+      "Social Sciences",
+      "Languages",
+      "Computer Science",
+      "Economics"
+    ]
+  },
+  {
+    "name": "University of Hyderabad",
+    "ranking": 26,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Law",
+      "Social Sciences",
+      "Languages",
+      "Computer Science",
+      "Economics"
+    ]
+  },
+  {
+    "name": "Jamia Millia Islamia",
+    "ranking": 13,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Law",
+      "Social Sciences",
+      "Languages",
+      "Computer Science",
+      "Economics"
+    ]
+  },
+  {
+    "name": "Visva-Bharati University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Shantiniketan, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Law",
+      "Social Sciences",
+      "Languages",
+      "Computer Science",
+      "Economics"
+    ]
+  },
+  {
+    "name": "Mahatma Gandhi Central University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Motihari, Bihar, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Law",
+      "Social Sciences",
+      "Languages",
+      "Computer Science",
+      "Economics"
+    ]
+  },
+  {
+    "name": "Savitribai Phule Pune University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Pune, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Calcutta",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kolkata, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Madras",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Chennai, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Mumbai",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mumbai, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Osmania University",
+    "ranking": 95,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Jadavpur University",
+    "ranking": 18,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kolkata, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Anna University",
+    "ranking": 29,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Chennai, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Guru Nanak Dev University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Amritsar, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Panjab University",
+    "ranking": 94,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Chandigarh, Chandigarh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Maharaja Sayajirao University of Baroda",
+    "ranking": 98,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Vadodara, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Rajasthan",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jaipur, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Allahabad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Prayagraj, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Karnatak University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Dharwad, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Kerala",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Thiruvananthapuram, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Mysore",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mysuru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Goa University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Taleigao, Goa, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Kashmir",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Srinagar, Jammu & Kashmir, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Sciences",
+      "Commerce",
+      "Engineering",
+      "Law",
+      "Management"
+    ]
+  },
+  {
+    "name": "Manipal Academy of Higher Education",
+    "ranking": 14,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Manipal, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Birla Institute of Technology and Science, Pilani",
+    "ranking": 16,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Pilani, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Vellore Institute of Technology",
+    "ranking": 21,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Vellore, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Physics",
+      "Mathematics",
+      "Chemistry",
+      "AI & ML",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "SRM Institute of Science and Technology",
+    "ranking": 22,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Kattankulathur, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Amrita Vishwa Vidyapeetham",
+    "ranking": 17,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Kalinga Institute of Industrial Technology",
+    "ranking": 28,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Bhubaneswar, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Sathyabama Institute of Science and Technology",
+    "ranking": 55,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Chennai, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Jamia Hamdard",
+    "ranking": 49,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Tata Institute of Fundamental Research",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Mumbai, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Indian Statistical Institute",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Kolkata, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Chandigarh University",
+    "ranking": 32,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Mohali, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Management",
+      "Economics",
+      "Sciences",
+      "Humanities"
+    ]
+  },
+  {
+    "name": "Lovely Professional University",
+    "ranking": 46,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Phagwara, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Management",
+      "Economics",
+      "Sciences",
+      "Humanities"
+    ]
+  },
+  {
+    "name": "Shiv Nadar University",
+    "ranking": 47,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Greater Noida, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Management",
+      "Economics",
+      "Sciences",
+      "Humanities"
+    ]
+  },
+  {
+    "name": "Ashoka University",
+    "ranking": 75,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Sonepat, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Management",
+      "Economics",
+      "Sciences",
+      "Humanities"
+    ]
+  },
+  {
+    "name": "Azim Premji University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Management",
+      "Economics",
+      "Sciences",
+      "Humanities"
+    ]
+  },
+  {
+    "name": "OP Jindal Global University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Sonipat, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Management",
+      "Economics",
+      "Sciences",
+      "Humanities"
+    ]
+  },
+  {
+    "name": "Krea University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Sri City, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Management",
+      "Economics",
+      "Sciences",
+      "Humanities"
+    ]
+  },
+  {
+    "name": "Symbiosis International University",
+    "ranking": 40,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Pune, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Christ (Deemed to be University)",
+    "ranking": 77,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Homi Bhabha National Institute",
+    "ranking": 20,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Mumbai, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Information Technology",
+      "Management",
+      "Sciences",
+      "Design",
+      "Law"
+    ]
+  },
+  {
+    "name": "Maulana Azad National Institute of Technology Bhopal",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhopal, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "Malaviya National Institute of Technology Jaipur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jaipur, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "Sardar Vallabhbhai National Institute of Technology Surat",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Surat, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Kurukshetra",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kurukshetra, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Durgapur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Durgapur, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Jamshedpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jamshedpur, Jharkhand, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Silchar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Silchar, Assam, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Hamirpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hamirpur, Himachal Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Srinagar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Srinagar, Jammu & Kashmir, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Agartala",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Agartala, Tripura, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Uttarakhand",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Srinagar, Uttarakhand, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Meghalaya",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Shillong, Meghalaya, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Nagaland",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Chümoukedima, Nagaland, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Manipur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Imphal, Manipur, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Mizoram",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Aizawl, Mizoram, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Sikkim",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ravangla, Sikkim, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Goa",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ponda, Goa, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Puducherry",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Karaikal, Puducherry, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Delhi",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "Dr B R Ambedkar National Institute of Technology Jalandhar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jalandhar, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Raipur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Raipur, Chhattisgarh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Arunachal Pradesh",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Yupia, Arunachal Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Patna",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Patna, Bihar, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "National Institute of Technology Andhra Pradesh",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tadepalligudem, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Allahabad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Prayagraj, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gwalior, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology and Management Gwalior",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gwalior, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Design and Manufacturing Kancheepuram",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Chennai, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Design and Manufacturing Jabalpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jabalpur, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Bangalore",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "International Institute of Information Technology Hyderabad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indraprastha Institute of Information Technology Delhi",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "International Institute of Information Technology Bhubaneswar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhubaneswar, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Guwahati",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Guwahati, Assam, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Sri City",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Sri City, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Vadodara",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gandhinagar, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Nagpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Nagpur, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Kalyani",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kalyani, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Kottayam",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kottayam, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Una",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Una, Himachal Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Ranchi",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ranchi, Jharkhand, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Dharwad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Dharwad, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Lucknow",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Lucknow, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Kota",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kota, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Sonepat",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Sonepat, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Tiruchirappalli",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tiruchirappalli, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Raichur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Raichur, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Bhopal",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhopal, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Surat",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Surat, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Agartala",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Agartala, Tripura, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Kurnool",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kurnool, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Information Technology Kilohrad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Sonepat, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Computer Science",
+      "Information Technology",
+      "Data Science",
+      "AI & ML",
+      "Cybersecurity",
+      "Electronics & Communication",
+      "Engineering"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Ahmedabad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ahmedabad, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Bangalore",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Calcutta",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kolkata, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Lucknow",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Lucknow, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Kozhikode",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kozhikode, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Indore",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Indore, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Shillong",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Shillong, Meghalaya, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Rohtak",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Rohtak, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Ranchi",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ranchi, Jharkhand, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Raipur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Raipur, Chhattisgarh, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Tiruchirappalli",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tiruchirappalli, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Udaipur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Udaipur, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Kashipur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kashipur, Uttarakhand, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Nagpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Nagpur, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Visakhapatnam",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Bodh Gaya",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bodh Gaya, Bihar, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Amritsar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Amritsar, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Sambalpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Sambalpur, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Sirmaur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Paonta Sahib, Himachal Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Jammu",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jammu, Jammu & Kashmir, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "Indian Institute of Management Mumbai",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mumbai, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Economics",
+      "Public Policy"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences New Delhi",
+    "ranking": 8,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Bhopal",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhopal, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Bhubaneswar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhubaneswar, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Jodhpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jodhpur, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Patna",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Patna, Bihar, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Raipur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Raipur, Chhattisgarh, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Rishikesh",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Rishikesh, Uttarakhand, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Raebareli",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Raebareli, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Kalyani",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kalyani, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Gorakhpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gorakhpur, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Bathinda",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bathinda, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Deoghar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Deoghar, Jharkhand, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Mangalagiri",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mangalagiri, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Nagpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Nagpur, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Bibinagar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bibinagar, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "All India Institute of Medical Sciences Guwahati",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Guwahati, Assam, India",
+    "established": 0,
+    "programs": [
+      "Medicine",
+      "Nursing",
+      "Pharmacy",
+      "Biotechnology",
+      "Biology"
+    ]
+  },
+  {
+    "name": "Indira Gandhi National Open University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Tezpur University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tezpur, Assam, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Assam University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Silchar, Assam, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "North-Eastern Hill University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Shillong, Meghalaya, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Mizoram University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Aizawl, Mizoram, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Manipur University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Imphal, Manipur, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Nagaland University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Lumami, Nagaland, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Sikkim University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gangtok, Sikkim, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Pondicherry University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Puducherry, Puducherry, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Tamil Nadu",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Thiruvarur, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Kerala",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kasaragod, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Karnataka",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kalaburagi, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Rajasthan",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ajmer, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Haryana",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mahendragarh, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Gujarat",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gandhinagar, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Punjab",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bathinda, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Jammu",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jammu, Jammu & Kashmir, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Kashmir",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Srinagar, Jammu & Kashmir, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Jharkhand",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ranchi, Jharkhand, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of South Bihar",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gaya, Bihar, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Central University of Odisha",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Koraput, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "The English and Foreign Languages University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Maulana Azad National Urdu University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Rajiv Gandhi University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Itanagar, Arunachal Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Visva-Bharati",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Santiniketan, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Bangalore University",
+    "ranking": 79,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Mangalore University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mangaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Kuvempu University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Shivamogga, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Visvesvaraya Technological University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Belagavi, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Gujarat University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ahmedabad, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Gujarat Technological University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ahmedabad, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Rashtrasant Tukadoji Maharaj Nagpur University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Nagpur, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Shivaji University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kolhapur, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Dr. Babasaheb Ambedkar Marathwada University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Aurangabad, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Kavayitri Bahinabai Chaudhari North Maharashtra University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jalgaon, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "SNDT Women's University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mumbai, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Himachal Pradesh University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Shimla, Himachal Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Kurukshetra University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kurukshetra, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Maharshi Dayanand University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Rohtak, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Guru Jambheshwar University of Science and Technology",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hisar, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Deenbandhu Chhotu Ram University of Science and Technology",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Murthal, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Dr. A.P.J. Abdul Kalam Technical University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Lucknow, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Lucknow",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Lucknow, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Chhatrapati Shahu Ji Maharaj University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kanpur, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Dr. Bhimrao Ambedkar University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Agra, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Chaudhary Charan Singh University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Meerut, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Kalyani University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kalyani, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of North Bengal",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Siliguri, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Vidyasagar University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Midnapore, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Maulana Abul Kalam Azad University of Technology",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kolkata, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Utkal University",
+    "ranking": 90,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhubaneswar, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Sambalpur University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Sambalpur, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Berhampur University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Berhampur, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Odisha University of Agriculture and Technology",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhubaneswar, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Rani Durgavati Vishwavidyalaya",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jabalpur, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Barkatullah University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhopal, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Devi Ahilya Vishwavidyalaya",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Indore, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhopal, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Pt. Ravishankar Shukla University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Raipur, Chhattisgarh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Andhra University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Sri Venkateswara University",
+    "ranking": 76,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tirupati, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Jawaharlal Nehru Technological University, Kakinada",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kakinada, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Jawaharlal Nehru Technological University, Hyderabad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Acharya Nagarjuna University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Guntur, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Madurai Kamaraj University",
+    "ranking": 99,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Madurai, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Bharathiar University",
+    "ranking": 83,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Coimbatore, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Bharathidasan University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tiruchirappalli, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Annamalai University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Chidambaram, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Cochin University of Science and Technology",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kochi, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Mahatma Gandhi University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kottayam, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "University of Jammu",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jammu, Jammu & Kashmir, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Computer Science",
+      "Management"
+    ]
+  },
+  {
+    "name": "Jain (Deemed-to-be University)",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "Bharati Vidyapeeth (Deemed to be University)",
+    "ranking": 48,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Pune, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "KLE Academy of Higher Education and Research",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Belagavi, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "Banasthali Vidyapith",
+    "ranking": 71,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Banasthali, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "Shoolini University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Solan, Himachal Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "PES University",
+    "ranking": 93,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "RV University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Dayananda Sagar University",
+    "ranking": 54,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Reva University",
+    "ranking": 87,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "Alliance University",
+    "ranking": 68,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "FLAME University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Pune, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "MIT World Peace University",
+    "ranking": 59,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Private",
+    "location": "Pune, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Arts",
+      "Humanities",
+      "Social Sciences",
+      "Languages",
+      "Economics",
+      "Commerce",
+      "Law",
+      "Business",
+      "Management",
+      "Economics",
+      "Finance",
+      "Accounting",
+      "Computer Science"
+    ]
+  },
+  {
+    "name": "NMIMS Deemed to be University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Mumbai, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "SVKM's NMIMS",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Mumbai, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "Thapar Institute of Engineering and Technology",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Patiala, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "BITS Pilani Hyderabad Campus",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "BITS Pilani Goa Campus",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Deemed",
+    "location": "Sancoale, Goa, India",
+    "established": 0,
+    "programs": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ]
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Kolkata",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mohanpur, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Pune",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Pune, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Mohali",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mohali, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Bhopal",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhopal, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Thiruvananthapuram",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Thiruvananthapuram, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Tirupati",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tirupati, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "Indian Institute of Science Education and Research Berhampur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Berhampur, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Sciences",
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Biology",
+      "Computer Science",
+      "Statistics",
+      "Data Science"
+    ]
+  },
+  {
+    "name": "National Law School of India University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bengaluru, Karnataka, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "NALSAR University of Law",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "National Law Institute University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhopal, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "The West Bengal National University of Juridical Sciences",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kolkata, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "National Law University, Jodhpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jodhpur, Rajasthan, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Hidayatullah National Law University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Raipur, Chhattisgarh, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Dr. Ram Manohar Lohiya National Law University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Lucknow, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Rajiv Gandhi National University of Law",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Patiala, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Chanakya National Law University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Patna, Bihar, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "National University of Advanced Legal Studies",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kochi, Kerala, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "National Law University Odisha",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Cuttack, Odisha, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "National University of Study and Research in Law",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Ranchi, Jharkhand, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "National Law University and Judicial Academy, Assam",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Guwahati, Assam, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Damodaram Sanjivayya National Law University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Visakhapatnam, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Tamil Nadu National Law University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Tiruchirappalli, Tamil Nadu, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Maharashtra National Law University, Mumbai",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mumbai, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Maharashtra National Law University, Nagpur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Nagpur, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Maharashtra National Law University, Aurangabad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Aurangabad, Maharashtra, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Dharmashastra National Law University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Jabalpur, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Himachal Pradesh National Law University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Shimla, Himachal Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Dr. B.R. Ambedkar National Law University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Sonepat, Haryana, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "Gujarat National Law University",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gandhinagar, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "National Law University, Delhi",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Law",
+      "Political Science",
+      "Public Policy",
+      "Criminology",
+      "International Law",
+      "Corporate Law"
+    ]
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research, Mohali",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Mohali, Punjab, India",
+    "established": 0,
+    "programs": [
+      "Pharmacy",
+      "Medicinal Chemistry",
+      "Pharmacology",
+      "Biotechnology",
+      "Regulatory Affairs"
+    ]
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research, Hyderabad",
+    "ranking": 42,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hyderabad, Telangana, India",
+    "established": 0,
+    "programs": [
+      "Pharmacy",
+      "Medicinal Chemistry",
+      "Pharmacology",
+      "Biotechnology",
+      "Regulatory Affairs"
+    ]
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research, Ahmedabad",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Gandhinagar, Gujarat, India",
+    "established": 0,
+    "programs": [
+      "Pharmacy",
+      "Medicinal Chemistry",
+      "Pharmacology",
+      "Biotechnology",
+      "Regulatory Affairs"
+    ]
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research, Guwahati",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Guwahati, Assam, India",
+    "established": 0,
+    "programs": [
+      "Pharmacy",
+      "Medicinal Chemistry",
+      "Pharmacology",
+      "Biotechnology",
+      "Regulatory Affairs"
+    ]
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research, Hajipur",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Hajipur, Bihar, India",
+    "established": 0,
+    "programs": [
+      "Pharmacy",
+      "Medicinal Chemistry",
+      "Pharmacology",
+      "Biotechnology",
+      "Regulatory Affairs"
+    ]
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research, Kolkata",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Kolkata, West Bengal, India",
+    "established": 0,
+    "programs": [
+      "Pharmacy",
+      "Medicinal Chemistry",
+      "Pharmacology",
+      "Biotechnology",
+      "Regulatory Affairs"
+    ]
+  },
+  {
+    "name": "National Institute of Pharmaceutical Education and Research, Raebareli",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Raebareli, Uttar Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Pharmacy",
+      "Medicinal Chemistry",
+      "Pharmacology",
+      "Biotechnology",
+      "Regulatory Affairs"
+    ]
+  },
+  {
+    "name": "School of Planning and Architecture, Delhi",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "New Delhi, Delhi, India",
+    "established": 0,
+    "programs": [
+      "Architecture",
+      "Urban Planning",
+      "Design",
+      "Landscape Architecture"
+    ]
+  },
+  {
+    "name": "School of Planning and Architecture, Bhopal",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Bhopal, Madhya Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Architecture",
+      "Urban Planning",
+      "Design",
+      "Landscape Architecture"
+    ]
+  },
+  {
+    "name": "School of Planning and Architecture, Vijayawada",
+    "ranking": 0,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "Vijayawada, Andhra Pradesh, India",
+    "established": 0,
+    "programs": [
+      "Architecture",
+      "Urban Planning",
+      "Design",
+      "Landscape Architecture"
+    ]
+  },
+  {
+    "name": "Indian Institute Of Science Bengaluru",
+    "ranking": 2,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Hindu College",
+    "ranking": 1,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Miranda House",
+    "ranking": 2,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Hans Raj College",
+    "ranking": 3,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Sspu Pune",
+    "ranking": 1,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Suas Indore",
+    "ranking": 2,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Saveetha Institute of Medical and Technical Sciences",
+    "ranking": 23,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Indian Agricultural Research Institute",
+    "ranking": 24,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Siksha ‘O’ Anusandhan",
+    "ranking": 25,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Post Graduate Institute of Medical Education and Research, Chandigarh",
+    "ranking": 33,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+    "ranking": 35,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Amity University",
+    "ranking": 37,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "JSS Academy of Higher Education and Research",
+    "ranking": 38,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Shanmugha Arts, Science, Technology & Research Academy (SASTRA)",
+    "ranking": 41,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "King George’s Medical University",
+    "ranking": 43,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Koneru Lakshmaiah Education Foundation",
+    "ranking": 44,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Chandigarh Group of Colleges, Landran",
+    "ranking": 45,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Datta Meghe Institute of Higher Education and Research",
+    "ranking": 50,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Kalasalingam Academy of Research and Education",
+    "ranking": 51,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Sri Ramachandra Institute of Higher Education and Research",
+    "ranking": 52,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "SR University, Warangal",
+    "ranking": 53,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "ICFAI Foundation for Higher Education",
+    "ranking": 56,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Guru Gobind Singh Indraprastha University",
+    "ranking": 57,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Graphic Era University",
+    "ranking": 58,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Maharishi Markandeshwar (Deemed to be University)",
+    "ranking": 60,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "SR University",
+    "ranking": 61,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Bharath Institute of Higher Education and Research",
+    "ranking": 62,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "The NorthCap University",
+    "ranking": 63,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Shoolini University of Biotechnology and Management Sciences",
+    "ranking": 64,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "GITAM (Deemed to be University)",
+    "ranking": 65,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Sri Balaji Vidyapeeth",
+    "ranking": 66,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology",
+    "ranking": 67,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Nirma University",
+    "ranking": 69,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Presidency University, Bengaluru",
+    "ranking": 70,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Chitkara University",
+    "ranking": 72,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Kalinga University",
+    "ranking": 73,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Centurion University of Technology and Management",
+    "ranking": 74,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Manipal University Jaipur",
+    "ranking": 78,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Parul University",
+    "ranking": 80,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Ramaiah University of Applied Sciences",
+    "ranking": 81,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Saveetha University",
+    "ranking": 82,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Vinayaka Mission’s Research Foundation",
+    "ranking": 84,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "PSG College of Technology",
+    "ranking": 85,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Guru Nanak Institutions Technical Campus",
+    "ranking": 86,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Sri Venkateswara Institute of Medical Sciences",
+    "ranking": 88,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Avinashilingam Institute for Home Science and Higher Education for Women",
+    "ranking": 89,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Velore Institute of Technology-AP University",
+    "ranking": 91,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Dr. D. Y. Patil Vidyapeeth",
+    "ranking": 92,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Sri Ramachandra Medical College and Research Institute",
+    "ranking": 96,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Sri Siddhartha Academy of Higher Education",
+    "ranking": 97,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  },
+  {
+    "name": "Maharishi University of Information Technology",
+    "ranking": 100,
+    "acceptanceRate": 0.0,
+    "tuition": 0.0,
+    "satRange": {
+      "min": 0,
+      "max": 0
+    },
+    "gpaMin": 0.0,
+    "type": "Public",
+    "location": "India",
+    "established": 0,
+    "programs": []
+  }
+]

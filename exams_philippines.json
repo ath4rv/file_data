@@ -1,0 +1,38 @@
+{
+  "UPCAT": {
+    "totalMarks": 100,
+    "subjects": {
+      "Language Proficiency": 25,
+      "Reading Comprehension": 25,
+      "Mathematics": 25,
+      "Science": 25
+    },
+    "description": "University of the Philippines College Admission Test",
+    "negativeMarking": true
+  },
+  "DOST-SEI JLSS": {
+    "totalMarks": 300,
+    "subjects": {
+      "Science": 100,
+      "Math": 100,
+      "English": 100
+    },
+    "description": "Department of Science and Technology Scholarship Qualifying Exam",
+    "negativeMarking": false
+  },
+  "Philippine Bar": {
+    "totalMarks": 100,
+    "subjects": {
+      "Civil Law": 12,
+      "Criminal Law": 12,
+      "Labor Law": 12,
+      "Commercial Law": 12,
+      "Political Law": 12,
+      "Taxation": 12,
+      "Remedial Law": 14,
+      "Legal Ethics": 14
+    },
+    "description": "Philippine Bar Examination",
+    "negativeMarking": false
+  }
+}

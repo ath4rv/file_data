@@ -1,0 +1,12 @@
+{
+  "UNEB UACE": {
+    "totalMarks": 100,
+    "subjects": {
+      "General Paper": 20,
+      "Principal Subjects": 60,
+      "Subsidiary": 20
+    },
+    "description": "Uganda Advanced Certificate of Education",
+    "negativeMarking": false
+  }
+}
